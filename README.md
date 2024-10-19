@@ -20,6 +20,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Beyond Keeping Peace: United Nations Effectiveness in the Midst of Fighting (2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/beyond-keeping-peace-united-nations-effectiveness-in-the-midst-of-fighting/46CFE142449D67731DF1E9FC37B46143)
 - [Organizing Rebellion: Rethinking High-Risk Mobilization and Social Networks in War (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/organizing-rebellion-rethinking-highrisk-mobilization-and-social-networks-in-war/585B17B7BAF8EA76E10758B2ECB78782)
 - [Explaining Rape during Civil War: Cross-National Evidence (1980–2009) (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-rape-during-civil-war-crossnational-evidence-19802009/30FC323D6DA7E923547156CC0E947213)
+- [Handling and Manhandling Civilians in Civil War (2006)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/handling-and-manhandling-civilians-in-civil-war/4981647EDFE411635EB2086C4A851BFA)
 
 # Civil Conflict Recurrence
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
