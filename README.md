@@ -8,6 +8,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Technology and Collective Action: The Effect of Cell Phone Coverage on Political Violence in Africa (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/technology-and-collective-action-the-effect-of-cell-phone-coverage-on-political-violence-in-africa/E81CFF7B9CB576D612E6D3ECDAF493C4)
 - [Social Identification and Ethnic Conflict (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/social-identification-and-ethnic-conflict/E2D5B1BA3A315FD08FA67B004900BE4D)
 - [Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/horizontal-inequalities-and-ethnonationalist-civil-war-a-global-comparison/840A4D0FA634987190FD73A38E136860)
+- [Secessionism in Multicultural States: Does Sharing Power Prevent or Encourage It?(2004)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/secessionism-in-multicultural-states-does-sharing-power-prevent-or-encourage-it/A250705602999E239516E81E17D6F6FB)
+- [No Lessons Learned from the Holocaust? Assessing Risks of Genocide and Political Mass Murder since 1955 (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/no-lessons-learned-from-the-holocaust-assessing-risks-of-genocide-and-political-mass-murder-since-1955/FBA37FA563AC35E1CB6F7B57F8140F2C)
+- [Ethnicity, Insurgency, and Civil War (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/ethnicity-insurgency-and-civil-war/B1D5D0E7C782483C5D7E102A61AD6605)
+- [Toward a Democratic Civil Peace? Democracy, Political Change, and Civil War, 1816–1992 (2001)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/toward-a-democratic-civil-peace-democracy-political-change-and-civil-war-18161992/49244FF48139A3516DB45FF294902F6A)
 
 # Civil Conflict Duration/Intensity
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -21,12 +25,13 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Organizing Rebellion: Rethinking High-Risk Mobilization and Social Networks in War (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/organizing-rebellion-rethinking-highrisk-mobilization-and-social-networks-in-war/585B17B7BAF8EA76E10758B2ECB78782)
 - [Explaining Rape during Civil War: Cross-National Evidence (1980–2009) (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-rape-during-civil-war-crossnational-evidence-19802009/30FC323D6DA7E923547156CC0E947213)
 - [Handling and Manhandling Civilians in Civil War (2006)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/handling-and-manhandling-civilians-in-civil-war/4981647EDFE411635EB2086C4A851BFA)
+- [Civil Wars Kill and Maim People—Long After the Shooting Stops (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/civil-wars-kill-and-maim-peoplelong-after-the-shooting-stops/7E0EB818993415A57F08969803C8733B)
 
 # Civil Conflict Recurrence
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
 - [Preventing Rebel Resurgence after Civil War: A Field Experiment in Security and Justice Provision in Rural Colombia (2022)](https://www.cambridge.org/core/journals/american-political-science-review/article/preventing-rebel-resurgence-after-civil-war-a-field-experiment-in-security-and-justice-provision-in-rural-colombia/49DEECA91BC07D752CE119CCE59E6CE9)
+- [International Peacebuilding: A Theoretical and Quantitative Analysis (2000)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-peacebuilding-a-theoretical-and-quantitative-analysis/2E28FC5F7DD0F30B097D83553312C023)
 
 # Terrorism
 - [Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C)
-
-# Nonviolence
+- [The Strategic Logic of Suicide Terrorism (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/strategic-logic-of-suicide-terrorism/A6F51C77E3DE644EBD20ADE176973547)
