@@ -17,6 +17,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Land Reform and Civil Conflict: Theory and Evidence from Peru (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12466)
 - [Is There More Violence in the Middle? (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12373)
 - [Who Inherits the State? Colonial Rule and Postcolonial Conflict (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12236)
+- [How Governments Shape the Risk of Civil Violence: India's Federal Reorganization, 1950–56 (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12074)
+- [Group Segregation and Urban Violence (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12045)
+- [Actor Fragmentation and Civil War Bargaining: How Internal Divisions Generate Civil Conflict (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12003)
+- [Foreign Aid Shocks as a Cause of Violent Armed Conflict (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00492.x)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -38,13 +42,21 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Leader Incentives and Civil War Outcomes (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12199)
 - - [Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C)
 - [The Strategic Logic of Suicide Terrorism (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/strategic-logic-of-suicide-terrorism/A6F51C77E3DE644EBD20ADE176973547)
+- [Rewarding Bad Behavior: How Governments Respond to Terrorism in Civil War (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12113)
+- [United Nations Peacekeeping and Civilian Protection in Civil War (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12036)
+- [Antigovernment Networks in Civil Conflicts: How Network Structures Affect Conflictual Behavior (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12039)
+- [Autocracies and Terrorism: Conditioning Effects of Authoritarian Regime Type on Terrorist Attacks (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12028)
+- [The Road to Hell? Third-Party Intervention to Prevent Atrocities (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12009)
+- [More Inequality, More Killings: The Maoist Insurgency in Nepal (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00529.x)
 
 # Civil Conflict Recurrence
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
 - [Preventing Rebel Resurgence after Civil War: A Field Experiment in Security and Justice Provision in Rural Colombia (2022)](https://www.cambridge.org/core/journals/american-political-science-review/article/preventing-rebel-resurgence-after-civil-war-a-field-experiment-in-security-and-justice-provision-in-rural-colombia/49DEECA91BC07D752CE119CCE59E6CE9)
 - [International Peacebuilding: A Theoretical and Quantitative Analysis (2000)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-peacebuilding-a-theoretical-and-quantitative-analysis/2E28FC5F7DD0F30B097D83553312C023)
 - [Keeping or Building Peace? UN Peace Operations beyond the Security Dilemma (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12797)
+- [Information, Agreement Design, and the Durability of Civil War Settlements (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00444.x)
 
 # Data/Methodology Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
 - [Is Temperature Exogenous? The Impact of Civil Conflict on the Instrumental Climate Record in Sub-Saharan Africa (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12425)
+- [A Global Model for Forecasting Political Instability (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2009.00426.x)
