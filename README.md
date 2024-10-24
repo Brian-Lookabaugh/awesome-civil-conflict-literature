@@ -15,8 +15,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [When State Building Backfires: Elite Coordination and Popular Grievance in Rebellion (2022)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12611)
 - [Redemption through Rebellion: Border Change, Lost Unity, and Nationalist Conflict (2022)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12634)
 - [Land Reform and Civil Conflict: Theory and Evidence from Peru (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12466)
+- [Is There More Violence in the Middle? (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12373)
+- [Who Inherits the State? Colonial Rule and Postcolonial Conflict (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12236)
 
-# Civil Conflict Duration/Intensity
+# Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
 - [Armed Violence and Patriarchal Values: A Survey of Young Men in Thailand and Their Military Experiences (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/armed-violence-and-patriarchal-values-a-survey-of-young-men-in-thailand-and-their-military-experiences/B85A96BAC9897970BA8DCB3CB3D37911)
 - [The Logic of Kidnapping in Civil War: Evidence from Colombia (2022)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/logic-of-kidnapping-in-civil-war-evidence-from-colombia/906B5C3924A9EFE7E63A8646BFCF752E)
@@ -32,6 +34,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Fortification Dilemma: Border Control and Rebel Violence (20240](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12794)
 - [Rebel Capacity, Intelligence Gathering, and Combat Tactics (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12750)
 - [Rebel Strategies and Prospects for Peace (2022)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajps.12647)
+- [Peacekeepers against Criminal Violence—Unintended Effects of Peacekeeping Operations? (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12451)
+- [Leader Incentives and Civil War Outcomes (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12199)
+- - [Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C)
+- [The Strategic Logic of Suicide Terrorism (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/strategic-logic-of-suicide-terrorism/A6F51C77E3DE644EBD20ADE176973547)
 
 # Civil Conflict Recurrence
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -39,6 +45,6 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [International Peacebuilding: A Theoretical and Quantitative Analysis (2000)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-peacebuilding-a-theoretical-and-quantitative-analysis/2E28FC5F7DD0F30B097D83553312C023)
 - [Keeping or Building Peace? UN Peace Operations beyond the Security Dilemma (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12797)
 
-# Terrorism
-- [Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C)
-- [The Strategic Logic of Suicide Terrorism (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/strategic-logic-of-suicide-terrorism/A6F51C77E3DE644EBD20ADE176973547)
+# Data/Methodology Reviews
+- [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
+- [Is Temperature Exogenous? The Impact of Civil Conflict on the Instrumental Climate Record in Sub-Saharan Africa (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12425)
