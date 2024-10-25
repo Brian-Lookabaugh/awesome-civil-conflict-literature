@@ -40,7 +40,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Rebel Strategies and Prospects for Peace (2022)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajps.12647)
 - [Peacekeepers against Criminal Violence—Unintended Effects of Peacekeeping Operations? (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12451)
 - [Leader Incentives and Civil War Outcomes (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12199)
-- - [Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C)
+- [Locking Down Violence: The COVID-19 Pandemic’s Impact on Non-State Actor Violence (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/locking-down-violence-the-covid19-pandemics-impact-on-nonstate-actor-violence/19073EF1BC0873E1D614A34F6BD1365C)
 - [The Strategic Logic of Suicide Terrorism (2003)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/strategic-logic-of-suicide-terrorism/A6F51C77E3DE644EBD20ADE176973547)
 - [Rewarding Bad Behavior: How Governments Respond to Terrorism in Civil War (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12113)
 - [United Nations Peacekeeping and Civilian Protection in Civil War (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12036)
