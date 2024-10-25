@@ -48,6 +48,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Autocracies and Terrorism: Conditioning Effects of Authoritarian Regime Type on Terrorist Attacks (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12028)
 - [The Road to Hell? Third-Party Intervention to Prevent Atrocities (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12009)
 - [More Inequality, More Killings: The Maoist Insurgency in Nepal (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00529.x)
+- [Veto Players and Civil War Duration (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00221.x)
 
 # Civil Conflict Recurrence
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
