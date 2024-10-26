@@ -21,6 +21,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Group Segregation and Urban Violence (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12045)
 - [Actor Fragmentation and Civil War Bargaining: How Internal Divisions Generate Civil Conflict (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12003)
 - [Foreign Aid Shocks as a Cause of Violent Armed Conflict (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00492.x)
+- [Oil Wealth and Regime Survival in the Developing World, 1960–1999 (2004)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2004.00067.x)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -56,6 +57,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [International Peacebuilding: A Theoretical and Quantitative Analysis (2000)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-peacebuilding-a-theoretical-and-quantitative-analysis/2E28FC5F7DD0F30B097D83553312C023)
 - [Keeping or Building Peace? UN Peace Operations beyond the Security Dilemma (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12797)
 - [Information, Agreement Design, and the Durability of Civil War Settlements (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00444.x)
+- [Institutionalizing Peace: Power Sharing and Post-Civil War Conflict Management (2003)](https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00022)
 
 # Data/Methodology Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
