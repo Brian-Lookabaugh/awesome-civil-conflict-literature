@@ -22,6 +22,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Actor Fragmentation and Civil War Bargaining: How Internal Divisions Generate Civil Conflict (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12003)
 - [Foreign Aid Shocks as a Cause of Violent Armed Conflict (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00492.x)
 - [Oil Wealth and Regime Survival in the Developing World, 1960–1999 (2004)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2004.00067.x)
+- [US Patronage, State Capacity, and Civil Conflict (2022)](https://www.journals.uchicago.edu/doi/10.1086/715598)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -50,14 +51,17 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Road to Hell? Third-Party Intervention to Prevent Atrocities (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12009)
 - [More Inequality, More Killings: The Maoist Insurgency in Nepal (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00529.x)
 - [Veto Players and Civil War Duration (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00221.x)
+- [Rebel Leader Ascension and Wartime Sexual Violence (2021)](https://www.journals.uchicago.edu/doi/10.1086/709432)
 
-# Civil Conflict Recurrence
+# Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
 - [Preventing Rebel Resurgence after Civil War: A Field Experiment in Security and Justice Provision in Rural Colombia (2022)](https://www.cambridge.org/core/journals/american-political-science-review/article/preventing-rebel-resurgence-after-civil-war-a-field-experiment-in-security-and-justice-provision-in-rural-colombia/49DEECA91BC07D752CE119CCE59E6CE9)
 - [International Peacebuilding: A Theoretical and Quantitative Analysis (2000)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/international-peacebuilding-a-theoretical-and-quantitative-analysis/2E28FC5F7DD0F30B097D83553312C023)
 - [Keeping or Building Peace? UN Peace Operations beyond the Security Dilemma (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12797)
 - [Information, Agreement Design, and the Durability of Civil War Settlements (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00444.x)
 - [Institutionalizing Peace: Power Sharing and Post-Civil War Conflict Management (2003)](https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00022)
+- [Peacekeeping and the Enforcement of Intergroup Cooperation: Evidence from Mali (2022)](https://www.journals.uchicago.edu/doi/10.1086/715246)
+- [The Perils of Peace: Civil War Peace Agreements and Military Coups (2020)](https://www.journals.uchicago.edu/doi/10.1086/705683)
 
 # Data/Methodology Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
