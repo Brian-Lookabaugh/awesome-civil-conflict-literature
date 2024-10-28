@@ -23,6 +23,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Foreign Aid Shocks as a Cause of Violent Armed Conflict (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00492.x)
 - [Oil Wealth and Regime Survival in the Developing World, 1960–1999 (2004)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2004.00067.x)
 - [US Patronage, State Capacity, and Civil Conflict (2022)](https://www.journals.uchicago.edu/doi/10.1086/715598)
+- [Places to Hide: Terrain, Ethnicity, and Civil Conflict (2019)](https://www.journals.uchicago.edu/doi/10.1086/704597)
+- [Evaluating the Conflict-Reducing Effect of UN Peacekeeping Operations (2019)](https://www.journals.uchicago.edu/doi/10.1086/700203#_i15)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -52,6 +54,16 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [More Inequality, More Killings: The Maoist Insurgency in Nepal (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00529.x)
 - [Veto Players and Civil War Duration (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00221.x)
 - [Rebel Leader Ascension and Wartime Sexual Violence (2021)](https://www.journals.uchicago.edu/doi/10.1086/709432)
+- [Natural Resource Exploitation and Sexual Violence by Rebel Groups (2019)](https://www.journals.uchicago.edu/doi/10.1086/701637)
+- [Droughts, Land Appropriation, and Rebel Violence in the Developing World (2017)](https://www.journals.uchicago.edu/doi/10.1086/691057)
+- [Do Natural Resources Influence Who Comes to Power, and How? (2017)](https://www.journals.uchicago.edu/doi/10.1086/688443)
+- [Do Good Borders Make Good Rebels? Territorial Control and Civilian Casualties (2017)](https://www.journals.uchicago.edu/doi/10.1086/688699)
+- [Do All Good Things Go Together? Development Assistance and Insurgent Violence in Civil War (2016)](https://www.journals.uchicago.edu/doi/10.1086/686026)
+- [The Intrastate Contagion of Ethnic Civil War (2016)](https://www.journals.uchicago.edu/doi/10.1086/684630)
+- [Terrorism, Spoiling, and the Resolution of Civil Wars (2015)](https://www.journals.uchicago.edu/doi/10.1086/682400)
+- [Doing Harm by Doing Good? The Negative Externalities of Humanitarian Aid Provision during Civil Conflict (2015)](https://www.journals.uchicago.edu/doi/10.1086/681239)
+- [How Does Leadership Decapitation Affect Violence? The Case of Drug Trafficking Organizations in Mexico (2015)](https://www.journals.uchicago.edu/doi/10.1086/680209)
+- [Bases, Bullets, and Ballots: The Effect of US Military Aid on Political Conflict in Colombia (2015)](https://www.journals.uchicago.edu/doi/10.1086/679021)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -62,6 +74,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Institutionalizing Peace: Power Sharing and Post-Civil War Conflict Management (2003)](https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00022)
 - [Peacekeeping and the Enforcement of Intergroup Cooperation: Evidence from Mali (2022)](https://www.journals.uchicago.edu/doi/10.1086/715246)
 - [The Perils of Peace: Civil War Peace Agreements and Military Coups (2020)](https://www.journals.uchicago.edu/doi/10.1086/705683)
+- [Governing Well after War: How Improving Female Representation Prolongs Post-conflict Peace (2017)](https://www.journals.uchicago.edu/doi/10.1086/691056)
 
 # Data/Methodology Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
