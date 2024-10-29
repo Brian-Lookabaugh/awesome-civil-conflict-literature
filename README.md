@@ -25,6 +25,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [US Patronage, State Capacity, and Civil Conflict (2022)](https://www.journals.uchicago.edu/doi/10.1086/715598)
 - [Places to Hide: Terrain, Ethnicity, and Civil Conflict (2019)](https://www.journals.uchicago.edu/doi/10.1086/704597)
 - [Evaluating the Conflict-Reducing Effect of UN Peacekeeping Operations (2019)](https://www.journals.uchicago.edu/doi/10.1086/700203#_i15)
+- [Autocratic Institutions and Civil Conflict Contagion (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000157)
+- [International Institutions and Civil War Prevention (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381612000898)
+- [Social Constraints and Civil War: Bridging the Gap with Criminological Theory (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381612000655)
+- [Peacekeeping and the Contagion of Armed Conflict (2011)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611000764)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -64,6 +68,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Doing Harm by Doing Good? The Negative Externalities of Humanitarian Aid Provision during Civil Conflict (2015)](https://www.journals.uchicago.edu/doi/10.1086/681239)
 - [How Does Leadership Decapitation Affect Violence? The Case of Drug Trafficking Organizations in Mexico (2015)](https://www.journals.uchicago.edu/doi/10.1086/680209)
 - [Bases, Bullets, and Ballots: The Effect of US Military Aid on Political Conflict in Colombia (2015)](https://www.journals.uchicago.edu/doi/10.1086/679021)
+- [Terrorism in the Context of Civil War (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000984)
+- [Terrorism In Dictatorships (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381612000400)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -75,6 +81,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Peacekeeping and the Enforcement of Intergroup Cooperation: Evidence from Mali (2022)](https://www.journals.uchicago.edu/doi/10.1086/715246)
 - [The Perils of Peace: Civil War Peace Agreements and Military Coups (2020)](https://www.journals.uchicago.edu/doi/10.1086/705683)
 - [Governing Well after War: How Improving Female Representation Prolongs Post-conflict Peace (2017)](https://www.journals.uchicago.edu/doi/10.1086/691056)
+- [Humanitarian Assistance and the Duration of Peace after Civil War (2014)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613001382)
+- [The Effect of Elections on Postconflict Peace and Reconstruction (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611001733)
 
 # Data/Methodology Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
