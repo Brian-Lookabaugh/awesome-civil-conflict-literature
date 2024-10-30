@@ -29,6 +29,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [International Institutions and Civil War Prevention (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381612000898)
 - [Social Constraints and Civil War: Bridging the Gap with Criminological Theory (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381612000655)
 - [Peacekeeping and the Contagion of Armed Conflict (2011)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611000764)
+- [Evolutionary Psychological Foundations of Civil Wars (2009)](https://www.journals.uchicago.edu/doi/10.1017/S0022381608090026)
+- [Economic Globalization and Civil War (2005)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2005.00358.x)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
