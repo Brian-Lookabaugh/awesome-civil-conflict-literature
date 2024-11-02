@@ -31,6 +31,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Peacekeeping and the Contagion of Armed Conflict (2011)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611000764)
 - [Evolutionary Psychological Foundations of Civil Wars (2009)](https://www.journals.uchicago.edu/doi/10.1017/S0022381608090026)
 - [Economic Globalization and Civil War (2005)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2005.00358.x)
+- [Choosing tactics: Horizontal inequalities and the risk of violent and nonviolent conflict (2024)](https://journals.sagepub.com/doi/full/10.1177/00223433221111825)
+- [Oil discoveries, civil war, and preventive state repression (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211047365)
+- [Greed, grievance, or graduates? Why do men rebel? (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211014269)
+- [Disasters and intergroup peace in sub-Saharan Africa (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211065249)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -72,6 +76,13 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Bases, Bullets, and Ballots: The Effect of US Military Aid on Political Conflict in Colombia (2015)](https://www.journals.uchicago.edu/doi/10.1086/679021)
 - [Terrorism in the Context of Civil War (2013)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613000984)
 - [Terrorism In Dictatorships (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381612000400)
+- [State capacity matters in ‘the middle:’ A new perspective on domestic terrorism (2024)](https://journals.sagepub.com/doi/abs/10.1177/00223433221147320)
+- [Your space or mine? Competition, control, and the spatial profile of militant violence against civilians (2023)](https://journals.sagepub.com/doi/full/10.1177/00223433221091597)
+- [Central banks and civil war termination (2022)](https://journals.sagepub.com/doi/full/10.1177/00223433211038194)
+- [The effectiveness of mediation and peacekeeping for ending conflict (2022)](https://journals.sagepub.com/doi/full/10.1177/0022343321990076)
+- [Disasters and civilian victimization: Exploring the dynamic effect in Africa, 1997–2017 (2022)](https://journals.sagepub.com/doi/full/10.1177/00223433211061672)
+- [Third-party regime type and civil war duration (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320975819)
+- [Thinking outside the (temporal) box to explain protracted intrastate conflict (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320970272)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -85,6 +96,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Governing Well after War: How Improving Female Representation Prolongs Post-conflict Peace (2017)](https://www.journals.uchicago.edu/doi/10.1086/691056)
 - [Humanitarian Assistance and the Duration of Peace after Civil War (2014)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613001382)
 - [The Effect of Elections on Postconflict Peace and Reconstruction (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611001733)
+- [Peacekeeping and development in fragile states: Micro-level evidence from Liberia (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320912813)
+- [Peace for our time? Examining the effect of power-sharing on postwar rebellions (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022343319883676)
 
 # Data/Methodology Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
