@@ -35,6 +35,16 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Oil discoveries, civil war, and preventive state repression (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211047365)
 - [Greed, grievance, or graduates? Why do men rebel? (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211014269)
 - [Disasters and intergroup peace in sub-Saharan Africa (2022)](https://journals.sagepub.com/doi/abs/10.1177/00223433211065249)
+- [International politics by other means: External sources of civil war (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343319841661)
+- [Blame the victims? Refugees, state capacity, and non-state actor violence (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343318804592)
+- [Revisiting democratic civil peace: Electoral regimes and civil conflict (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343318765607)
+- [Reputation, concessions, and territorial civil war: Do ethnic dominoes fall, or don’t they? (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343318767499)
+- [The build-up of coercive capacities: Arms imports and the outbreak of violent intrastate conflicts (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343317740417)
+- [Where, when, and how does the UN work to prevent civil war in self-determination disputes? (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343317744826)
+- [Oil export, external prewar support for the government, and civil conflict onset (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022343317697369)
+- [New democracies and the risk of civil conflict: The lasting legacy of military rule (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022343316660756)
+- [Peace from the past: Pre-colonial political institutions and civil wars in Africa (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022343316640595)
+- [Weapons of choice: The effect of natural resources on terror and insurgencies (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022343316634418)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -83,6 +93,16 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Disasters and civilian victimization: Exploring the dynamic effect in Africa, 1997–2017 (2022)](https://journals.sagepub.com/doi/full/10.1177/00223433211061672)
 - [Third-party regime type and civil war duration (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320975819)
 - [Thinking outside the (temporal) box to explain protracted intrastate conflict (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320970272)
+- [Obstruction and intimidation of peacekeepers: How armed actors undermine civilian protection efforts (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343318800522)
+- [When do ties bind? Foreign fighters, social embeddedness, and violence against civilians (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343318804594)
+- [Better peacekeepers, better protection? Troop quality of United Nations peace operations and violence against civilians (2018)](https://journals.sagepub.com/doi/full/10.1177/0022343318785419)
+- [Fighting the Hydra: United Nations sanctions and rebel groups (2018)](https://journals.sagepub.com/doi/full/10.1177/0022343318788127)
+- [Interstate rivalry, genocide, and politicide (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343317741186)
+- [What drives violence against civilians in civil war? Evidence from Guatemala’s conflict archives (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343317749272)
+- [Varieties of civil war and mass killing: Reassessing the relationship between guerrilla warfare and civilian victimization (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343317715060)
+- [The impact of criminal prosecutions during intrastate conflict (2018)](https://journals.sagepub.com/doi/abs/10.1177/0022343317732614)
+- [Living off the land: The connection between cropland, food security, and violence against civilians (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022343316684543)
+- [Financing rebellion: Using piracy to explain and predict conflict intensity in Africa and Southeast Asia (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022343316683436)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -98,8 +118,15 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Effect of Elections on Postconflict Peace and Reconstruction (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611001733)
 - [Peacekeeping and development in fragile states: Micro-level evidence from Liberia (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320912813)
 - [Peace for our time? Examining the effect of power-sharing on postwar rebellions (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022343319883676)
+- [Including chiefs, maintaining peace? Examining the effects of state–traditional governance interaction on civil peace in sub-Saharan Africa (2019)](https://journals.sagepub.com/doi/abs/10.1177/0022343318790780)
+- [Spoilers of peace: Pro-government militias as risk factors for conflict recurrence (2019)](https://journals.sagepub.com/doi/full/10.1177/0022343318800524)
+- [The legacy of foreign patrons: External state support and conflict recurrence (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022343317700465)
+- [Evaluating the scope and intensity of the conflict trap: A dynamic simulation approach (2017)](https://journals.sagepub.com/doi/full/10.1177/0022343316684917)
+- [The downstream effects of combatant fragmentation on civil war recurrence (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022343315617067)
 
-# Data/Methodology Reviews
+# Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
 - [Is Temperature Exogenous? The Impact of Civil Conflict on the Instrumental Climate Record in Sub-Saharan Africa (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12425)
 - [A Global Model for Forecasting Political Instability (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2009.00426.x)
+- [Armed politics and the study of intrastate conflict (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022343317698848)
+- [Do the robot: Lessons from machine learning to improve conflict forecasting (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022343316682065)
