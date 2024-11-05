@@ -66,6 +66,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Political opportunity structures, democracy, and civil war (2010](https://journals.sagepub.com/doi/abs/10.1177/0022343310362293)
 - [Of rulers, rebels, and revenue: State capacity, civil war onset, and primary commodities (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343310361841)
 - [The spoils of nature: Armed civil conflict and rebel access to natural resources (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343309350015)
+- [Resource Curse or Rentier Peace? The Ambiguous Effects of Oil Wealth and Oil Dependence on Violent Conflict (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343309340500)
+- [Poverty and Violent Conflict: A Micro-Level Perspective on the Causes and Duration of Warfare (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343309102655)
+- [Buying Peace? Oil Wealth, Corruption and Civil War, 1985—99 (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343308100715)
+- [Blood and Soil? Resource Scarcity and Internal Armed Conflict Revisited (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308096157)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -132,6 +136,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Blocking resolution: How external states can prolong civil wars (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343309353488)
 - [Economic sanctions and the duration of civil conflicts (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343309356489)
 - [Explaining the onset of mass killing, 1949—87 (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343309342944)
+- [Poverty and Violent Conflict: A Micro-Level Perspective on the Causes and Duration of Warfare (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343309102655)
+- [Third-Party Intervention and the Civil War Process (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308088815)
+- [Rebel—Military Integration and Civil War Termination (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308088816)
+- [Security Forces and Sexual Violence: A Cross-National Analysis of a Principal—Agent Argument (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307082058)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -154,6 +162,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The downstream effects of combatant fragmentation on civil war recurrence (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022343315617067)
 - [A price worth fighting for? Natural resources and conflict recurrence (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022343312444942)
 - [Peace on quicksand? Challenging the conventional wisdom about economic growth and post-conflict risks (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022343312436767)
+- [Settlements, Outcomes, and the Recurrence of Conflict (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308096153)
+- [Post-Conflict Risks (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308091356)
+- [Partial Peace: Rebel Groups Inside and Outside of Civil War Settlements (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308091357)
+- [Dividing Countries to Promote Peace: Prospects for Long-Term Success of Partitions (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022343305056228)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -166,3 +178,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Forecasting the onset of genocide and politicide: Annual out-of-sample forecasts on a global dataset, 1988–2003 (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022343313484167)
 - [The perils of policy by p-value: Predicting civil conflicts (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343309356491)
 - [Measuring state capacity: Theoretical and empirical implications for the study of civil conflict (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343310361838)
+- [Enduring Internal Rivalries: A New Framework for the Study of Civil War (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343307084923)
