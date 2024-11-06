@@ -70,6 +70,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Poverty and Violent Conflict: A Micro-Level Perspective on the Causes and Duration of Warfare (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343309102655)
 - [Buying Peace? Oil Wealth, Corruption and Civil War, 1985—99 (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343308100715)
 - [Blood and Soil? Resource Scarcity and Internal Armed Conflict Revisited (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308096157)
+- [What Do We Know about Natural Resources and Civil War? (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043773)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -140,6 +141,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Third-Party Intervention and the Civil War Process (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308088815)
 - [Rebel—Military Integration and Civil War Termination (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308088816)
 - [Security Forces and Sexual Violence: A Cross-National Analysis of a Principal—Agent Argument (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307082058)
+- [The Duration and Termination of Civil War (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043768)
+- [On the Duration of Civil War (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043769)
+- [Why Do Some Civil Wars Last So Much Longer than Others? (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043770)
+- [The Dynamics of Civil War Duration and Outcome (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043771)
+- [What Do We Know about Natural Resources and Civil War? (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043773)
+- [Violence Against Civilians in Civil Wars: Looting or Terror? (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022343302039004006)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -166,6 +173,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Post-Conflict Risks (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308091356)
 - [Partial Peace: Rebel Groups Inside and Outside of Civil War Settlements (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308091357)
 - [Dividing Countries to Promote Peace: Prospects for Long-Term Success of Partitions (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022343305056228)
+- [Does Conflict Beget Conflict? Explaining Recurring Civil War (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043775)
+- [Building Peace in Sri Lanka: a Role for Civil Society? (2003)](https://journals.sagepub.com/doi/abs/10.1177/0022343303040002004)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
