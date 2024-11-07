@@ -71,6 +71,17 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Buying Peace? Oil Wealth, Corruption and Civil War, 1985—99 (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022343308100715)
 - [Blood and Soil? Resource Scarcity and Internal Armed Conflict Revisited (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343308096157)
 - [What Do We Know about Natural Resources and Civil War? (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043773)
+- [The Social Origins of Rebellion: Toward a New Quantitative Research Agenda (2024)](https://journals.sagepub.com/doi/full/10.1177/00220027231202037)
+- [The Urban Origins of Rebellion (2024)](https://journals.sagepub.com/doi/abs/10.1177/00220027231202038)
+- [Rebel, Remain, or Resign? Military Elites’ Decision-Making at the Onset of the American Civil War (2024)](https://journals.sagepub.com/doi/abs/10.1177/00220027231185575)
+- [Do Natural Resources Really Cause Civil Conflict? Evidence from the New Global Resources Dataset (2022)](https://journals.sagepub.com/doi/abs/10.1177/00220027211043157)
+- [Adverse Rainfall Shocks and Civil War: Myth or Reality? (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022002720969796)
+- [How State Presence Leads to Civil Conflict (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022002720957063)
+- [Civilian Victimization and Ethnic Civil War (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002719898873)
+- [The Effect of Civil Society Organizations and Democratization Aid on Civil War Onset (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002719888684)
+- [Urban Concentration and Civil War (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002719892054)
+- [A Turn to Violence: The Escalation of Nonviolent Movements (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002719861707)
+- [Climatic Stress, Internal Migration, and Syrian Civil War Onset (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002719864140)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -147,6 +158,14 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Dynamics of Civil War Duration and Outcome (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043771)
 - [What Do We Know about Natural Resources and Civil War? (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043773)
 - [Violence Against Civilians in Civil Wars: Looting or Terror? (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022343302039004006)
+- [The Social Origins of Rebellion: Toward a New Quantitative Research Agenda (2024)](https://journals.sagepub.com/doi/full/10.1177/00220027231202037)
+- [Excessive Force or Armored Restraint? Government Mechanization and Civilian Casualties in Civil Conflict (2023)](https://journals.sagepub.com/doi/abs/10.1177/00220027231154446)
+- [Is Terrorism Really a Weapon of the Weak? Debunking the Conventional Wisdom (2023)](https://journals.sagepub.com/doi/abs/10.1177/00220027221121143)
+- [Rebels with a Cause: Does Ideology Make Armed Conflicts Longer and Bloodier? (2022)](https://journals.sagepub.com/doi/full/10.1177/00220027221108222)
+- [Competition and Civilian Victimization (2022)](https://journals.sagepub.com/doi/abs/10.1177/00220027211070621)
+- [How and When Amnesty during Conflict Affects Conflict Termination (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002720909884)
+- [Military Technology and Human Loss in Intrastate Conflict: The Conditional Impact of Arms Imports (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002719893446)
+- [United Nations Peacekeeping Locally: Enabling Conflict Resolution, Reducing Communal Violence (2020)](https://journals.sagepub.com/doi/full/10.1177/0022002719859631)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -175,6 +194,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Dividing Countries to Promote Peace: Prospects for Long-Term Success of Partitions (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022343305056228)
 - [Does Conflict Beget Conflict? Explaining Recurring Civil War (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022343304043775)
 - [Building Peace in Sri Lanka: a Role for Civil Society? (2003)](https://journals.sagepub.com/doi/abs/10.1177/0022343303040002004)
+- [Policing Institutions and Post-Conflict Peace (2021)](https://journals.sagepub.com/doi/full/10.1177/00220027211013088)
+- [Civil–Military Relations and Civil War Recurrence: Security Forces in Postwar Politics (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002720903356)
+- [United Nations Peacekeeping Locally: Enabling Conflict Resolution, Reducing Communal Violence (2020)](https://journals.sagepub.com/doi/full/10.1177/0022002719859631)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -188,3 +210,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The perils of policy by p-value: Predicting civil conflicts (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343309356491)
 - [Measuring state capacity: Theoretical and empirical implications for the study of civil conflict (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343310361838)
 - [Enduring Internal Rivalries: A New Framework for the Study of Civil War (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343307084923)
+- [Forecasting Civil Wars: Theory and Structure in an Age of “Big Data” and Machine Learning (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002720918923)
