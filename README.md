@@ -89,6 +89,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Language, Religion, and Ethnic Civil War (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022002715600755)
 - [Political Exclusion, Oil, and Ethnic Armed Conflict (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022002714567948)
 - [Segregation, Polarization, and Ethnic Conflict (2016)](https://journals.sagepub.com/doi/abs/10.1177/0022002714550084)
+- [Contagious Rebellion and Preemptive Repression (2014)](https://journals.sagepub.com/doi/abs/10.1177/0022002712468720)
+- [Horizontal Inequality, Crosscutting Cleavages, and Civil War (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002711431416)
+- [Do Working Men Rebel? Insurgency and Unemployment in Afghanistan, Iraq, and the Philippines (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022002710393920)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -189,6 +192,14 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Regulating Militias: Governments, Militias, and Civilian Targeting in Civil War (2015)](https://journals.sagepub.com/doi/abs/10.1177/0022002715576751)
 - [Delegating Death: Military Intervention and Government Killing (2015)](https://journals.sagepub.com/doi/abs/10.1177/0022002713515406)
 - [Killing Kony: Leadership Change and Civil War Termination (2015)](https://journals.sagepub.com/doi/abs/10.1177/0022002713499720)
+- [Does Warfare Matter? Severity, Duration, and Outcomes of Civil Wars (2014)](https://journals.sagepub.com/doi/abs/10.1177/0022002714547903)
+- [Weakening the Enemy: A Disaggregated Study of Violence against Civilians in Africa (2014)](https://journals.sagepub.com/doi/abs/10.1177/0022002713492648)
+- [Private Military Companies, Opportunities, and Termination of Civil Wars in Africa (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022002712449325)
+- [Land Reform as a Counterinsurgency Policy: Evidence from Colombia (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022002712446130)
+- [Rebels against Rebels: Explaining Violence between Rebel Groups (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002712439496)
+- [Expecting Elections: Interventions, Ethnic Support, and the Duration of Civil Wars (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022002711408015)
+- [Managing Threat, Cost, and Incentive to Kill: The Short- and Long-Term Effects of Intervention in Mass Killings (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022002711408006)
+- [Knowing Your Enemy: Information and Commitment Problems in Civil Wars (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022002710372753)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -227,6 +238,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Why Bad Governance Leads to Repeat Civil War (2015)](https://journals.sagepub.com/doi/abs/10.1177/0022002714528006)
 - [Governance and Conflict Relapse (2015)](https://journals.sagepub.com/doi/abs/10.1177/0022002713520591)
 - [The Conflict Trap Revisited: Civil Conflict and Educational Achievement (2015)](https://journals.sagepub.com/doi/abs/10.1177/0022002713516845)
+- [Reintegrating Rebels into Civilian Life: Quasi-Experimental Evidence from Burundi (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022002712448908)
+- [Power Sharing in Postconflict Societies: Implications for Peace and Governance (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002711421593)
+- [Civil War, Reintegration, and Gender in Northern Uganda (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022002711408013)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -241,3 +255,6 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Measuring state capacity: Theoretical and empirical implications for the study of civil conflict (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022343310361838)
 - [Enduring Internal Rivalries: A New Framework for the Study of Civil War (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022343307084923)
 - [Forecasting Civil Wars: Theory and Structure in an Age of “Big Data” and Machine Learning (2020)](https://journals.sagepub.com/doi/abs/10.1177/0022002720918923)
+- [Bridging Micro and Macro Approaches on Civil Wars and Political Violence: Issues, Challenges, and the Way Forward (2014)](https://journals.sagepub.com/doi/abs/10.1177/0022002714547905)
+- [Prediction of Intrastate Conflict Using State Structural Factors and Events Data (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022002712446129)
+- [Predicting Conflict in Space and Time (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022002710371669)
