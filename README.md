@@ -100,6 +100,13 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [A Diamond Curse?: Civil War and a Lootable Resource (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022002705277548)
 - [Resource Rents, Governance, and Conflict (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022002705277551)
 - [Greed, Grievance, and Mobilization in Civil Wars (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022002704273441)
+- [How Much War Will we see?: Explaining the Prevalence of Civil War (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046003001)
+- [On the Incidence of Civil War in Africa (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001002)
+- [Ethnicity, Political Systems, and Civil Wars (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001003)
+- [The Temporal Links between Conflict and Economic Activity (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001005)
+- [Economic Growth, Civil Wars, and Spatial Spillovers (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001006)
+- [Recruitment and Allegiance: The Microfoundations of Rebellion (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001007)
+- [Do Ethnic and Nonethnic Civil Wars Have the Same Causes?: A Theoretical and Empirical Inquiry (Part 1) (2001)](https://journals.sagepub.com/doi/abs/10.1177/0022002701045003001)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -213,6 +220,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Humanitarian Relief and Civil Conflict (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022002708316742)
 - [To Kill or to Protect: Security Forces, Domestic Institutions, and Genocide (2008)](https://journals.sagepub.com/doi/abs/10.1177/0022002707310427)
 - [Explaining the Severity of Civil Wars (2006)](https://journals.sagepub.com/doi/abs/10.1177/0022002705284828)
+- [How Much War Will we see?: Explaining the Prevalence of Civil War (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046003001)
+- [Third-party Interventions and the Duration of Intrastate Conflicts (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001004)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -274,3 +283,5 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Prediction of Intrastate Conflict Using State Structural Factors and Events Data (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022002712446129)
 - [Predicting Conflict in Space and Time (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022002710371669)
 - [Introduction to Special Issue on “Disaggregating Civil War” (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022002709336454)
+- [What Is Civil War?: Conceptual and Empirical Complexities of an Operational Definition (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022002704269355)
+- [Rebellion as a Quasi-Criminal Activity (2000)](https://journals.sagepub.com/doi/abs/10.1177/0022002700044006008)
