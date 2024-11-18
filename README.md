@@ -111,6 +111,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Proto-Insurgency, Repression-Driven Contagion, and Civil War Onset (2024)](https://www.tandfonline.com/doi/full/10.1080/10242694.2023.2183346)
 - [The Indivisible Hand of Peace? Consumption Opportunities and Civil War (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2019.1703441)
 - [This Land Is My Land! Large-Scale Land Acquisitions and Conflict Events in Sub-Saharan Africa (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2019.1647727)
+- [Interregional Inequality and Civil Conflict: Are Spatial Disparities a Threat to Stability and Peace? (2019)](https://www.tandfonline.com/doi/full/10.1080/10242694.2018.1446621)
+- [Does aid cause conflict in Pakistan? (2017)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.1000007)
+- [Economic shocks & civil conflict onset in Sub-Saharan Africa, 1981–2010 (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)
+- [Resource rents, institutions, and violent civil conflicts (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2013.848579)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -229,6 +233,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Asymmetric Effects of Positive and Negative Commodity Price Shocks During Civil Wars (2024)](https://www.tandfonline.com/doi/full/10.1080/10242694.2023.2191535)
 - [U.S. Refugee Aid and Civil Conflict (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2020.1773602)
 - [The Peace Level of Nations: An Empirical Investigation into the Determining Factors (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2020.1743957)
+- [French Arms Exports and Intrastate Conflicts: An Empirical Investigation (2019)](https://www.tandfonline.com/doi/full/10.1080/10242694.2018.1488371)
+- [Praying for Rain? Water Scarcity and the Duration and Outcomes of Civil Wars (2019)](https://www.tandfonline.com/doi/full/10.1080/10242694.2017.1320184)
+- [Mediation, Peacekeeping And Civil War Peace Agreements (2018)](https://www.tandfonline.com/doi/full/10.1080/10242694.2016.1173439)
+- [Territorial contestation and repressive violence in civil war (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.925677)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
