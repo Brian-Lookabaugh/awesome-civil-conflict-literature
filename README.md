@@ -107,6 +107,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Economic Growth, Civil Wars, and Spatial Spillovers (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001006)
 - [Recruitment and Allegiance: The Microfoundations of Rebellion (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001007)
 - [Do Ethnic and Nonethnic Civil Wars Have the Same Causes?: A Theoretical and Empirical Inquiry (Part 1) (2001)](https://journals.sagepub.com/doi/abs/10.1177/0022002701045003001)
+- [Indirect Rivalries and Civil Wars: Empirical Evidence (2024)](https://www.tandfonline.com/doi/full/10.1080/10242694.2022.2129350)
+- [Proto-Insurgency, Repression-Driven Contagion, and Civil War Onset (2024)](https://www.tandfonline.com/doi/full/10.1080/10242694.2023.2183346)
+- [The Indivisible Hand of Peace? Consumption Opportunities and Civil War (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2019.1703441)
+- [This Land Is My Land! Large-Scale Land Acquisitions and Conflict Events in Sub-Saharan Africa (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2019.1647727)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -222,6 +226,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Explaining the Severity of Civil Wars (2006)](https://journals.sagepub.com/doi/abs/10.1177/0022002705284828)
 - [How Much War Will we see?: Explaining the Prevalence of Civil War (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046003001)
 - [Third-party Interventions and the Duration of Intrastate Conflicts (2002)](https://journals.sagepub.com/doi/abs/10.1177/0022002702046001004)
+- [Asymmetric Effects of Positive and Negative Commodity Price Shocks During Civil Wars (2024)](https://www.tandfonline.com/doi/full/10.1080/10242694.2023.2191535)
+- [U.S. Refugee Aid and Civil Conflict (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2020.1773602)
+- [The Peace Level of Nations: An Empirical Investigation into the Determining Factors (2021)](https://www.tandfonline.com/doi/full/10.1080/10242694.2020.1743957)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -265,6 +272,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Civil War, Reintegration, and Gender in Northern Uganda (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022002711408013)
 - [Democracy under the Gun Understanding Postconflict Economic Recovery (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022002708326745)
 - [Demobilization and Reintegration (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022002707302790)
+- [State Building and Peace Agreement Implementation (2023)](https://www.tandfonline.com/doi/full/10.1080/10242694.2021.1946894)
+- [Non-UN Peacekeeping Effectiveness: Further Analysis (2022)](https://www.tandfonline.com/doi/full/10.1080/10242694.2021.1882280)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
