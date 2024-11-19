@@ -115,6 +115,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Does aid cause conflict in Pakistan? (2017)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.1000007)
 - [Economic shocks & civil conflict onset in Sub-Saharan Africa, 1981–2010 (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)
 - [Resource rents, institutions, and violent civil conflicts (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2013.848579)
+- [Not Too Distant: Grievance, Opportunity, and the Onset of Civil War (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2122805)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -237,6 +238,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Praying for Rain? Water Scarcity and the Duration and Outcomes of Civil Wars (2019)](https://www.tandfonline.com/doi/full/10.1080/10242694.2017.1320184)
 - [Mediation, Peacekeeping And Civil War Peace Agreements (2018)](https://www.tandfonline.com/doi/full/10.1080/10242694.2016.1173439)
 - [Territorial contestation and repressive violence in civil war (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.925677)
+- [The Impact of Host-State Consent on the Protection of Civilians in UN Peacekeeping (2024)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2196185)
+- [‘To Serve and Protect’: The Changing Roles of Police in the Protection of Civilians in UN Peace Operations (2024)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2119507)
+- [Civilians Creating Safe Space: The Role of Unarmed Civilian Peacekeeping in Protection of Civilians (2024)](https://www.tandfonline.com/doi/full/10.1080/13698249.2024.2324563)
+- [Do No Harm: The Role of Humanitarian Aid and Neutrality in Protracting Civil Wars (2023)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2253101)
+- [What Restrains Military from Targeting Civilians in Civil Wars? (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2139093)
+- [Distractions, Distortions and Dilemmas: The Externalities of Protecting Civilians in United Nations Peacekeeping (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.1995680)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -282,6 +289,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Demobilization and Reintegration (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022002707302790)
 - [State Building and Peace Agreement Implementation (2023)](https://www.tandfonline.com/doi/full/10.1080/10242694.2021.1946894)
 - [Non-UN Peacekeeping Effectiveness: Further Analysis (2022)](https://www.tandfonline.com/doi/full/10.1080/10242694.2021.1882280)
+- [Preventing Civil War Recurrence: Do Military Victories Really Perform Better than Peace Agreements? Causal Claim and Underpinning Assumptions Revisited (2021)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2004043)
+- [The Effect of Child Soldiers on Rebel Violence against Civilians (2021)](https://www.tandfonline.com/doi/full/10.1080/13698249.2021.1903780)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -302,3 +311,5 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Introduction to Special Issue on “Disaggregating Civil War” (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022002709336454)
 - [What Is Civil War?: Conceptual and Empirical Complexities of an Operational Definition (2004)](https://journals.sagepub.com/doi/abs/10.1177/0022002704269355)
 - [Rebellion as a Quasi-Criminal Activity (2000)](https://journals.sagepub.com/doi/abs/10.1177/0022002700044006008)
+- [Expanding the Coverage of Conflict Event Datasets: Three Proofs of Concept (2023)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2254988)
+- [Re-examining the State/Non-State Binary in the Study of (Civil) War (2023)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2254654)
