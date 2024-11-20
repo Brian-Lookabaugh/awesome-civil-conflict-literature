@@ -116,6 +116,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Economic shocks & civil conflict onset in Sub-Saharan Africa, 1981–2010 (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)
 - [Resource rents, institutions, and violent civil conflicts (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2013.848579)
 - [Not Too Distant: Grievance, Opportunity, and the Onset of Civil War (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2122805)
+- [Ethnicity, class, and civil war: the role of hierarchy, segmentation, and cross-cutting cleavages (2016)](https://www.tandfonline.com/doi/full/10.1080/13698249.2016.1145178)
+- [Dangerous Demographics? The Effect of Urbanisation and Metropolisation on African Civil Wars, 1961–2010 (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1100277)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -244,6 +246,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Do No Harm: The Role of Humanitarian Aid and Neutrality in Protracting Civil Wars (2023)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2253101)
 - [What Restrains Military from Targeting Civilians in Civil Wars? (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2139093)
 - [Distractions, Distortions and Dilemmas: The Externalities of Protecting Civilians in United Nations Peacekeeping (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.1995680)
+- [Targeting and Resistance: Reassessing the Effect of External Support on the Duration and Outcome of Armed Conflict (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2019.1648631)
+- [Buying Peace? Civil War Peace Duration and Private Military & Security Companies (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2017.1406037)
+- [State Capacity, Inequality and Inter-Group Violence in Sub-Saharan Africa: 1989–2011 (2017)](https://www.tandfonline.com/doi/full/10.1080/13698249.2017.1345541)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -291,6 +296,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Non-UN Peacekeeping Effectiveness: Further Analysis (2022)](https://www.tandfonline.com/doi/full/10.1080/10242694.2021.1882280)
 - [Preventing Civil War Recurrence: Do Military Victories Really Perform Better than Peace Agreements? Causal Claim and Underpinning Assumptions Revisited (2021)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2004043)
 - [The Effect of Child Soldiers on Rebel Violence against Civilians (2021)](https://www.tandfonline.com/doi/full/10.1080/13698249.2021.1903780)
+- [The viability of civil war peace agreements (2016)](https://www.tandfonline.com/doi/full/10.1080/13698249.2016.1215637)
+- [Keeping the Peace After Partition: Ethnic Minorities, Civil Wars, and the Third Generation Ethnic Security Dilemma (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059566)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -313,3 +320,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Rebellion as a Quasi-Criminal Activity (2000)](https://journals.sagepub.com/doi/abs/10.1177/0022002700044006008)
 - [Expanding the Coverage of Conflict Event Datasets: Three Proofs of Concept (2023)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2254988)
 - [Re-examining the State/Non-State Binary in the Study of (Civil) War (2023)](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2254654)
+- [The Importance of Context When Comparing Civil Wars (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2019.1642614)
+- [Comparing Conflict-related Sexual Violence: Expertise, Politics and Documentation (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2019.1642613)
+- [Towards a practitioner-centric definition of civil war (2016)](https://www.tandfonline.com/doi/full/10.1080/13698249.2016.1215635)
+- [Forecasting Civil Conflict with Zero-Inflated Count Models (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059564)
