@@ -118,6 +118,16 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Not Too Distant: Grievance, Opportunity, and the Onset of Civil War (2022)](https://www.tandfonline.com/doi/full/10.1080/13698249.2022.2122805)
 - [Ethnicity, class, and civil war: the role of hierarchy, segmentation, and cross-cutting cleavages (2016)](https://www.tandfonline.com/doi/full/10.1080/13698249.2016.1145178)
 - [Dangerous Demographics? The Effect of Urbanisation and Metropolisation on African Civil Wars, 1961–2010 (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1100277)
+- [Globalisation and Intrastate Conflict: An Empirical Analysis (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.980529)
+- [Refugee Geography and the Diffusion of Armed Conflict in Africa (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.979019)
+- [Beyond Civil War:A Quantitative Examination of Causes of Violence within Countries (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.976356)
+- [What Makes a State Stable and Peaceful? Good Governance, Legitimacy and Legal-Rationality Matter Even More for Low-Income Countries (2012)](https://www.tandfonline.com/doi/full/10.1080/13698249.2012.740201)
+- [The Religious Wave: Religion and Domestic Conflict from 1960 to 2009 (2012)](https://www.tandfonline.com/doi/full/10.1080/13698249.2012.679492)
+- [Head for the Hills? Rough Terrain, State Capacity, and Civil War Onset (2011)](https://www.tandfonline.com/doi/full/10.1080/13698249.2011.629863)
+- [Political Change and the Outbreak of Civil War: The Case of Lebanon (2011)](https://www.tandfonline.com/doi/full/10.1080/13698249.2011.629871)
+- [Why Do Civil Wars Occur? Understanding the Importance of Institutional Quality (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.509544)
+- [Institutional Design and Ethnic Violence: Do Grievances Help to Explain Ethnopolitical Instability? (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.486121)
+- [Weak States, Regime Types, and Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.492952)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -249,6 +259,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Targeting and Resistance: Reassessing the Effect of External Support on the Duration and Outcome of Armed Conflict (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2019.1648631)
 - [Buying Peace? Civil War Peace Duration and Private Military & Security Companies (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2017.1406037)
 - [State Capacity, Inequality and Inter-Group Violence in Sub-Saharan Africa: 1989–2011 (2017)](https://www.tandfonline.com/doi/full/10.1080/13698249.2017.1345541)
+- [Federal Institutions, Declarations of Independence and Civil War (2013)](https://www.tandfonline.com/doi/full/10.1080/13698249.2013.842737)
+- [Ideology and Violence in Civil Wars: Theory and Evidence from Mozambique and Angola (2012)](https://www.tandfonline.com/doi/full/10.1080/13698249.2012.740203)
+- [Economic Grievance and the Severity of Civil War (2011)](https://www.tandfonline.com/doi/full/10.1080/13698249.2011.599997)
+- [Political Constraints and Civil War Conflict Resolution (2011)](https://www.tandfonline.com/doi/full/10.1080/13698249.2011.576134)
+- [What Makes State Leaders Brutal? Examining Grievances and Mass Killing during Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.509557)
+- [Keeping Peace or Spurring Violence? Unintended Effects of Peace Operations on Violence against Civilians (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.484897)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -298,6 +314,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Effect of Child Soldiers on Rebel Violence against Civilians (2021)](https://www.tandfonline.com/doi/full/10.1080/13698249.2021.1903780)
 - [The viability of civil war peace agreements (2016)](https://www.tandfonline.com/doi/full/10.1080/13698249.2016.1215637)
 - [Keeping the Peace After Partition: Ethnic Minorities, Civil Wars, and the Third Generation Ethnic Security Dilemma (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059566)
+- [Female Participation and Civil War Relapse (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.966427)
+- [Power-Sharing in Civil War: Puzzles of Peacemaking and Peacebuilding (2013)](https://www.tandfonline.com/doi/full/10.1080/13698249.2013.850873)
+- [Liberia's War Recurrence: Grievance over Greed (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.534621)
+- [Barriers to Reintegration after Ethnic Civil Wars: Lessons from Minority Returns and Restitution in the Balkans (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.534622)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -324,3 +344,5 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Comparing Conflict-related Sexual Violence: Expertise, Politics and Documentation (2019)](https://www.tandfonline.com/doi/full/10.1080/13698249.2019.1642613)
 - [Towards a practitioner-centric definition of civil war (2016)](https://www.tandfonline.com/doi/full/10.1080/13698249.2016.1215635)
 - [Forecasting Civil Conflict with Zero-Inflated Count Models (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059564)
+- [The Irrelevance of the Security Dilemma for Civil Wars (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.904986)
+- [The Dynamics of Warfare in Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.484906)
