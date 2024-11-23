@@ -128,6 +128,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Why Do Civil Wars Occur? Understanding the Importance of Institutional Quality (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.509544)
 - [Institutional Design and Ethnic Violence: Do Grievances Help to Explain Ethnopolitical Instability? (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.486121)
 - [Weak States, Regime Types, and Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.492952)
+- [Give Me Liberty, or Give Me Death! State Repression, Ethnic Grievance and Civil War, 1981–2004 (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802631061)
+- [Greed-Grievance Reconsidered: The Role of Power and Survival in the Motivation of Armed Groups (2006)](https://www.tandfonline.com/doi/full/10.1080/13698240600886032)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -265,6 +267,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Political Constraints and Civil War Conflict Resolution (2011)](https://www.tandfonline.com/doi/full/10.1080/13698249.2011.576134)
 - [What Makes State Leaders Brutal? Examining Grievances and Mass Killing during Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.509557)
 - [Keeping Peace or Spurring Violence? Unintended Effects of Peace Operations on Violence against Civilians (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.484897)
+- [Emerging Consensus: Results from the Second Wave of Statistical Studies on Civil War Termination (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802631053)
+- [Fighting Fire with Fire? How (Not) to Neutralize an Insurgency (2007)](https://www.tandfonline.com/doi/full/10.1080/13698240701699482)
+- [Ten Ways to Lose at Counterinsurgency (2007)](https://www.tandfonline.com/doi/full/10.1080/13698240701699623)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -318,6 +323,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Power-Sharing in Civil War: Puzzles of Peacemaking and Peacebuilding (2013)](https://www.tandfonline.com/doi/full/10.1080/13698249.2013.850873)
 - [Liberia's War Recurrence: Grievance over Greed (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.534621)
 - [Barriers to Reintegration after Ethnic Civil Wars: Lessons from Minority Returns and Restitution in the Balkans (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.534622)
+- [The Pieces of Peacemaking: Understanding Implementation of Civil War Settlements (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240903157529)
+- [Duration of Peace and Recurring Civil Wars in Southeast Asia and the Pacific (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802631046)
+- [Knowing Peace When You See It: Setting Standards for Peacebuilding Success (2008)](https://www.tandfonline.com/doi/full/10.1080/13698240802062747)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -346,3 +354,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Forecasting Civil Conflict with Zero-Inflated Count Models (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059564)
 - [The Irrelevance of the Security Dilemma for Civil Wars (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.904986)
 - [The Dynamics of Warfare in Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.484906)
+- [Terrorism and Civil Wars (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802407017)
