@@ -133,6 +133,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Environmental shocks, civil conflict and aid effectiveness (2021)](https://journals.sagepub.com/doi/abs/10.1177/07388942211015240)
 - [Democratic breakdown and terrorism (2021)](https://journals.sagepub.com/doi/abs/10.1177/0738894220911366)
 - [Grievances and rebellion: Comparing relative deprivation and horizontal inequality (2020)](https://journals.sagepub.com/doi/full/10.1177/0738894220906372)
+- [How ethnic structure affects civil conflict: A model of endogenous grievance (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215613035)
+- [Does discrimination breed grievances—and do grievances breed violence? New evidence from an analysis of religious minorities in developing countries (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215581329)
+- [The impact of coups d’état on civil war duration (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570431)
+- [Rebel constituencies and rebel violence against civilians in civil conflicts (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570428)
+- [Youth bulge and civil war: Why a country’s share of young adults explains only non-ethnic wars (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894214544613)
+- [Does poverty cause conflict? Isolating the causal origins of the conflict trap (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894214559673)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -279,6 +285,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Rebel institutions and negotiated peace (2023)](https://journals.sagepub.com/doi/abs/10.1177/07388942221147508)
 - [Democratization as an impetus for peace talks in civil wars (2023)](https://journals.sagepub.com/doi/full/10.1177/07388942221081792)
 - [Pro-government militias and civil war termination (2022)](https://journals.sagepub.com/doi/abs/10.1177/07388942211048419)
+- [Means to an end: Pro-government militias as a predictive indicator of strategic mass killing (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215600385)
+- [Geographic determinants of indiscriminate violence in civil wars (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215593690)
+- [Micro-cleavages and violence in civil wars: A computational assessment (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570433)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -335,6 +344,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Pieces of Peacemaking: Understanding Implementation of Civil War Settlements (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240903157529)
 - [Duration of Peace and Recurring Civil Wars in Southeast Asia and the Pacific (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802631046)
 - [Knowing Peace When You See It: Setting Standards for Peacebuilding Success (2008)](https://www.tandfonline.com/doi/full/10.1080/13698240802062747)
+- [United Nations peacekeeping dynamics and the duration of post-civil conflict peace (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570425)
+- [Domestic institutions, leader tenure and the duration of civil war (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570432)
+- [Too good to be true? United Nations peacebuilding and the democratization of war-torn states (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894214559671)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -364,3 +376,5 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Irrelevance of the Security Dilemma for Civil Wars (2014)](https://www.tandfonline.com/doi/full/10.1080/13698249.2014.904986)
 - [The Dynamics of Warfare in Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.484906)
 - [Terrorism and Civil Wars (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802407017)
+- [The baseline-inflated multinomial logit model for international relations research (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570422)
+- [Tilting at a windmill? The conceptual problem in contemporary peace science (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894215593721)
