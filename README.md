@@ -130,6 +130,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Weak States, Regime Types, and Civil War (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.492952)
 - [Give Me Liberty, or Give Me Death! State Repression, Ethnic Grievance and Civil War, 1981–2004 (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802631061)
 - [Greed-Grievance Reconsidered: The Role of Power and Survival in the Motivation of Armed Groups (2006)](https://www.tandfonline.com/doi/full/10.1080/13698240600886032)
+- [Environmental shocks, civil conflict and aid effectiveness (2021)](https://journals.sagepub.com/doi/abs/10.1177/07388942211015240)
+- [Democratic breakdown and terrorism (2021)](https://journals.sagepub.com/doi/abs/10.1177/0738894220911366)
+- [Grievances and rebellion: Comparing relative deprivation and horizontal inequality (2020)](https://journals.sagepub.com/doi/full/10.1177/0738894220906372)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -270,6 +273,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Emerging Consensus: Results from the Second Wave of Statistical Studies on Civil War Termination (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802631053)
 - [Fighting Fire with Fire? How (Not) to Neutralize an Insurgency (2007)](https://www.tandfonline.com/doi/full/10.1080/13698240701699482)
 - [Ten Ways to Lose at Counterinsurgency (2007)](https://www.tandfonline.com/doi/full/10.1080/13698240701699623)
+- [Peace is in the air: Reducing conflict intensity with United Nations peacekeeping radio broadcasts (2024)](https://journals.sagepub.com/doi/abs/10.1177/07388942231216730)
+- [Rugged terrain, forest coverage, and insurgency in Myanmar (2024)](https://journals.sagepub.com/doi/abs/10.1177/07388942231171334)
+- [Why incumbents perpetrate election violence during civil war (2023)](https://journals.sagepub.com/doi/abs/10.1177/07388942221120382)
+- [Rebel institutions and negotiated peace (2023)](https://journals.sagepub.com/doi/abs/10.1177/07388942221147508)
+- [Democratization as an impetus for peace talks in civil wars (2023)](https://journals.sagepub.com/doi/full/10.1177/07388942221081792)
+- [Pro-government militias and civil war termination (2022)](https://journals.sagepub.com/doi/abs/10.1177/07388942211048419)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
