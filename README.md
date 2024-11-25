@@ -139,6 +139,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Rebel constituencies and rebel violence against civilians in civil conflicts (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570428)
 - [Youth bulge and civil war: Why a country’s share of young adults explains only non-ethnic wars (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894214544613)
 - [Does poverty cause conflict? Isolating the causal origins of the conflict trap (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894214559673)
+- [Migrant remittances and the onset of civil war (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213520369)
+- [Ethnic fractionalization, natural resources and armed conflict (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213508692)
+- [Why do poor countries suffer costly conflict? Unpacking per capita income and the onset of civil war (2013)](https://journals.sagepub.com/doi/abs/10.1177/0738894212473923)
+- [Explaining the Development–Civil War Relationship (2012)](https://journals.sagepub.com/doi/abs/10.1177/0738894211430279)
+- [Ethnic Minority Rule and Civil War Onset How Identity Salience, Fiscal Policy, and Natural Resource Profiles Moderate Outcomes (2011)](https://journals.sagepub.com/doi/abs/10.1177/0738894211418426)
+- [Generals, Dictators, and Kings: Authoritarian Regimes and Civil Conflict, 1973—2004 (2010)](https://journals.sagepub.com/doi/abs/10.1177/0738894210366507)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -288,6 +294,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Means to an end: Pro-government militias as a predictive indicator of strategic mass killing (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215600385)
 - [Geographic determinants of indiscriminate violence in civil wars (2017)](https://journals.sagepub.com/doi/abs/10.1177/0738894215593690)
 - [Micro-cleavages and violence in civil wars: A computational assessment (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570433)
+- [Opportunities to kill or incentives for restraint? Rebel capabilities, the origins of support, and civilian victimization in civil war (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213510122)
+- [Victory without peace: Conquest, insurgency, and war termination (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213508691)
+- [Blood in the Village: A Local-Level Investigation of State Massacres (2012)](https://journals.sagepub.com/doi/abs/10.1177/0738894212449087)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -347,6 +356,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [United Nations peacekeeping dynamics and the duration of post-civil conflict peace (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570425)
 - [Domestic institutions, leader tenure and the duration of civil war (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570432)
 - [Too good to be true? United Nations peacebuilding and the democratization of war-torn states (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894214559671)
+- [Intrastate peace agreements and the durability of peace (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213501133)
+- [Sustaining the peace after ethnic civil wars (2013)](https://journals.sagepub.com/doi/abs/10.1177/0738894213499667)
+- [A Country of their Own: Women and Peacebuilding (2011)](https://journals.sagepub.com/doi/abs/10.1177/0738894211418412)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
