@@ -145,6 +145,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Explaining the Development–Civil War Relationship (2012)](https://journals.sagepub.com/doi/abs/10.1177/0738894211430279)
 - [Ethnic Minority Rule and Civil War Onset How Identity Salience, Fiscal Policy, and Natural Resource Profiles Moderate Outcomes (2011)](https://journals.sagepub.com/doi/abs/10.1177/0738894211418426)
 - [Generals, Dictators, and Kings: Authoritarian Regimes and Civil Conflict, 1973—2004 (2010)](https://journals.sagepub.com/doi/abs/10.1177/0738894210366507)
+- [Coercion, Co-optation, or Cooperation?: State Capacity and the Risk of Civil War, 1961—2004 (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894208097664)
+- [Bad Neighbors: Failed States and Their Consequences (2008)](https://journals.sagepub.com/doi/abs/10.1080/07388940802397400)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -297,6 +299,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Opportunities to kill or incentives for restraint? Rebel capabilities, the origins of support, and civilian victimization in civil war (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213510122)
 - [Victory without peace: Conquest, insurgency, and war termination (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213508691)
 - [Blood in the Village: A Local-Level Investigation of State Massacres (2012)](https://journals.sagepub.com/doi/abs/10.1177/0738894212449087)
+- [Selected To Go Where Murderers Lurk?: The Preventive Effect of Peacekeeping on Mass Killings of Civilians (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106482)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -359,6 +362,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Intrastate peace agreements and the durability of peace (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213501133)
 - [Sustaining the peace after ethnic civil wars (2013)](https://journals.sagepub.com/doi/abs/10.1177/0738894213499667)
 - [A Country of their Own: Women and Peacebuilding (2011)](https://journals.sagepub.com/doi/abs/10.1177/0738894211418412)
+- [Settling Civil Wars: Armed Opponents’ Fates and the Duration of the Peace (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106480)
+- [Conflict and the Duration of Peace in Enduring Internal Rivalries (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106479)
+- [The Duration of Civil War Peace Agreements (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106481)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -390,3 +396,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Terrorism and Civil Wars (2009)](https://www.tandfonline.com/doi/full/10.1080/13698240802407017)
 - [The baseline-inflated multinomial logit model for international relations research (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570422)
 - [Tilting at a windmill? The conceptual problem in contemporary peace science (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894215593721)
+- [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong (2005)](https://journals.sagepub.com/doi/abs/10.1080/07388940500339167)
