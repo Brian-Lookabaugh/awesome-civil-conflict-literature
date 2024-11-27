@@ -148,6 +148,11 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Coercion, Co-optation, or Cooperation?: State Capacity and the Risk of Civil War, 1961—2004 (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894208097664)
 - [Bad Neighbors: Failed States and Their Consequences (2008)](https://journals.sagepub.com/doi/abs/10.1080/07388940802397400)
 - [Discrimination and ethnic conflict: a dyadic analysis of politically-excluded groups in sub-Saharan Africa (2020)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1716748#abstract)
+- [International conflict, military rule, and violent authoritarian breakdown (2019)](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1647837)
+- [Age structure and political violence: a re-assessment of the “youth bulge” hypothesis (2019)](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1522310)
+- [Food, state power, and rebellion: The case of maize (2019)](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1522311)
+- [Do Civil Wars, Coups and Riots Have the Same Structural Determinants? (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2016.1188093)
+- [Oil, Natural Gas, and Intrastate Conflict: Does Ownership Matter? (2016)](https://www.tandfonline.com/doi/full/10.1080/03050629.2015.1046599)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -306,6 +311,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Sexual violence along ethnic lines? Revisiting rebel-civilian ethnic ties and wartime sexual violence (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2115037)
 - [Helping without hurting: ameliorating the negative effects of humanitarian assistance on civil wars through mediation (2021)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1814763)
 - [United Nations peacekeeping and terrorism: short-term risks and long-term benefits (2020)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1725500)
+- [“The War Will Come to Your Street”: Explaining Geographic Variation in Terrorism by Rebel Groups (2018)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1367294)
+- [Fuel to the Fire: Natural Disasters and the Duration of Civil Conflict (2016)](https://www.tandfonline.com/doi/full/10.1080/03050629.2016.1115402)
+- [From Media Attention to Negotiated Peace: Human Rights Reporting and Civil War Duration (2015)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.942898)
+- [Civil War Victory and the Onset of Genocide and Politicide (2015)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.932786)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -372,6 +381,11 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Conflict and the Duration of Peace in Enduring Internal Rivalries (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106479)
 - [The Duration of Civil War Peace Agreements (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106481)
 - [State intervention, external spoilers, and the durability of peace agreements (2021)](https://www.tandfonline.com/doi/full/10.1080/03050629.2021.1910822)
+- [Trial fairness before impact: Tracing the link between post-conflict trials and peace stability (2019)](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1657114)
+- [UN Troop Deployment and Preventing Violence Against Civilians in Darfur (2019)](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1593161)
+- [Women’s Participation in Peace Negotiations and the Durability of Peace (2018)](https://www.tandfonline.com/doi/full/10.1080/03050629.2018.1492386)
+- [Electoral Reforms and Peace Duration Following Negotiated Settlements (2018)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1296834)
+- [State Capacity, Regime Type, and Sustaining the Peace after Civil War (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1260012)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -420,3 +434,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Conflict forecasting with event data and spatio-temporal graph convolutional networks (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
 - [Employing local peacekeeping data to forecast changes in violence (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2055010)
 - [Predicting (de-)escalation of sub-national violence using gradient boosting: Does it work? (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2021198)
+- [Democratization in Conflict Research: How Conceptualization Affects Operationalization and Testing Outcomes (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1257489)
