@@ -147,6 +147,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Generals, Dictators, and Kings: Authoritarian Regimes and Civil Conflict, 1973—2004 (2010)](https://journals.sagepub.com/doi/abs/10.1177/0738894210366507)
 - [Coercion, Co-optation, or Cooperation?: State Capacity and the Risk of Civil War, 1961—2004 (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894208097664)
 - [Bad Neighbors: Failed States and Their Consequences (2008)](https://journals.sagepub.com/doi/abs/10.1080/07388940802397400)
+- [Discrimination and ethnic conflict: a dyadic analysis of politically-excluded groups in sub-Saharan Africa (2020)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1716748#abstract)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -300,6 +301,11 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Victory without peace: Conquest, insurgency, and war termination (2014)](https://journals.sagepub.com/doi/abs/10.1177/0738894213508691)
 - [Blood in the Village: A Local-Level Investigation of State Massacres (2012)](https://journals.sagepub.com/doi/abs/10.1177/0738894212449087)
 - [Selected To Go Where Murderers Lurk?: The Preventive Effect of Peacekeeping on Mass Killings of Civilians (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106482)
+- [The logic of sexual violence by state security forces in civil wars (2024)](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2318551)
+- [Punish or tolerate? State capacity, military oversight, and wartime sexual violence (2023)](https://www.tandfonline.com/doi/full/10.1080/03050629.2023.2190111)
+- [Sexual violence along ethnic lines? Revisiting rebel-civilian ethnic ties and wartime sexual violence (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2115037)
+- [Helping without hurting: ameliorating the negative effects of humanitarian assistance on civil wars through mediation (2021)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1814763)
+- [United Nations peacekeeping and terrorism: short-term risks and long-term benefits (2020)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1725500)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -365,6 +371,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Settling Civil Wars: Armed Opponents’ Fates and the Duration of the Peace (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106480)
 - [Conflict and the Duration of Peace in Enduring Internal Rivalries (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106479)
 - [The Duration of Civil War Peace Agreements (2009)](https://journals.sagepub.com/doi/abs/10.1177/0738894209106481)
+- [State intervention, external spoilers, and the durability of peace agreements (2021)](https://www.tandfonline.com/doi/full/10.1080/03050629.2021.1910822)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -397,3 +404,19 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The baseline-inflated multinomial logit model for international relations research (2016)](https://journals.sagepub.com/doi/abs/10.1177/0738894215570422)
 - [Tilting at a windmill? The conceptual problem in contemporary peace science (2015)](https://journals.sagepub.com/doi/abs/10.1177/0738894215593721)
 - [Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong (2005)](https://journals.sagepub.com/doi/abs/10.1080/07388940500339167)
+- [When the levee breaks: A forecasting model of violent and nonviolent dissent (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2090933)
+- [Forecasting conflict using a diverse machine-learning ensemble: Ensemble averaging with multiple tree-based algorithms and variance promoting data configurations (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.1993209)
+- [Using past violence and current news to predict changes in violence (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2063853)
+- [Predicting escalating and de-escalating violence in Africa using Markov models (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2049772)
+- [Recurrent neural networks for conflict forecasting (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2016736)
+- [A shape-based approach to conflict forecasting (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2009821)
+- [Forecasting change in conflict fatalities with dynamic elastic net (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2090934)
+- [Click, click boom: Using Wikipedia data to predict changes in battle-related deaths (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2061969)
+- [Challenging the status quo: Predicting violence with sparse decision-making data (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2051024)
+- [Forecasting conflict in Africa with automated machine learning systems (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2017290)
+- [High resolution conflict forecasting with spatial convolutions and long short-term memory (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2031182)
+- [Predicting political violence using a state-space model (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2094921)
+- [The role of governmental weapons procurements in forecasting monthly fatalities in intrastate conflicts: A semiparametric hierarchical hurdle model (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.1993210)
+- [Conflict forecasting with event data and spatio-temporal graph convolutional networks (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2036987)
+- [Employing local peacekeeping data to forecast changes in violence (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2055010)
+- [Predicting (de-)escalation of sub-national violence using gradient boosting: Does it work? (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2021198)
