@@ -153,6 +153,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Food, state power, and rebellion: The case of maize (2019)](https://www.tandfonline.com/doi/full/10.1080/03050629.2019.1522311)
 - [Do Civil Wars, Coups and Riots Have the Same Structural Determinants? (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2016.1188093)
 - [Oil, Natural Gas, and Intrastate Conflict: Does Ownership Matter? (2016)](https://www.tandfonline.com/doi/full/10.1080/03050629.2015.1046599)
+- [Socioeconomic Inequality and Communal Conflict: A Disaggregated Analysis of Sub-Saharan Africa, 1990–2008 (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.917373)
+- [Incentives to Rebel, Bargaining, and Civil War (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2013.863193)
+- [Natural Disasters: Triggers of Political Instability? (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.622653)
+- [Shocks and Turbulence: Globalization and the Occurrence of Civil War (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.594756)
+- [Shocks, Commitment, and the Risk of Civil War (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.546239)
+- [Seeing the Forest for the Trees: Does Physical Geography Affect a State's Conflict Risk? (2010)](https://www.tandfonline.com/doi/full/10.1080/03050629.2010.524524)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -315,6 +321,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Fuel to the Fire: Natural Disasters and the Duration of Civil Conflict (2016)](https://www.tandfonline.com/doi/full/10.1080/03050629.2016.1115402)
 - [From Media Attention to Negotiated Peace: Human Rights Reporting and Civil War Duration (2015)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.942898)
 - [Civil War Victory and the Onset of Genocide and Politicide (2015)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.932786)
+- [The Impact of Pro-Government Militias on Human Rights Violations (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.932783)
+- [The Impact of Mercenaries and Private Military and Security Companies on Civil War Severity between 1946 and 2002 (2014)](https://www.tandfonline.com/doi/full/10.1080/03050629.2014.880699)
+- [Sexual Exploitation and Abuse by Peacekeepers: Understanding Variation (2013)](https://www.tandfonline.com/doi/full/10.1080/03050629.2013.805128)
+- [The Dynamics of Mass Killings: Testing Time-Series Models of One-Sided Violence in the Bosnian Civil War (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.697048)
+- [Violence Against Civilians: A Disaggregated Analysis (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.697049)
+- [Selling to Both Sides: The Effects of Major Conventional Weapons Transfers on Civil War Severity and Duration (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.676511)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -386,6 +398,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Women’s Participation in Peace Negotiations and the Durability of Peace (2018)](https://www.tandfonline.com/doi/full/10.1080/03050629.2018.1492386)
 - [Electoral Reforms and Peace Duration Following Negotiated Settlements (2018)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1296834)
 - [State Capacity, Regime Type, and Sustaining the Peace after Civil War (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1260012)
+- [Anchoring the Peace: Civil Society Actors in Peace Accords and Durable Peace (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.659139)
+- [Educational Access and Peace Duration in Post-Conflict Countries (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.640211)
+- [Civil War Settlements, Size of Governing Coalition, and Durability of Peace in Post–Civil War States (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.622645)
+- [Not All Peace Years Are Created Equal: Trade, Imposed Settlements, and Recurrent Conflict (2010)](https://www.tandfonline.com/doi/full/10.1080/03050629.2010.524509)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
