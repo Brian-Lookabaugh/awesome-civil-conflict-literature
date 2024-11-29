@@ -159,6 +159,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Shocks and Turbulence: Globalization and the Occurrence of Civil War (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.594756)
 - [Shocks, Commitment, and the Risk of Civil War (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.546239)
 - [Seeing the Forest for the Trees: Does Physical Geography Affect a State's Conflict Risk? (2010)](https://www.tandfonline.com/doi/full/10.1080/03050629.2010.524524)
+- [Civil War and Territory? Drawing Linkages Between Interstate and Intrastate War (2009)](https://www.tandfonline.com/doi/full/10.1080/03050620903084844)
+- [Asymmetry, Parity, and (Civil) War: Can International Theories of Power Help Us Understand Civil War? (2009)](https://www.tandfonline.com/doi/full/10.1080/03050620903084877)
+- [Population Shifts and Civil War: A Test of Power Transition Theory (2007)](https://www.tandfonline.com/doi/full/10.1080/03050620701449025)
+- [Repression, Grievances, Mobilization, and Rebellion: A New Test of Gurr’s Model of Ethnopolitical Rebellion (2005)](https://www.tandfonline.com/doi/full/10.1080/03050620590919452)
+- [Causal Evidence for Theories of Contagious Civil Unrest (2024)](https://academic.oup.com/isq/article-abstract/68/4/sqae124/7818364?redirectedFrom=fulltext)
+- [Which Institutions Matter? Re-Considering the Democratic Civil Peace (2021)](https://academic.oup.com/isq/article/65/1/223/5990223)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -327,6 +333,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Dynamics of Mass Killings: Testing Time-Series Models of One-Sided Violence in the Bosnian Civil War (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.697048)
 - [Violence Against Civilians: A Disaggregated Analysis (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.697049)
 - [Selling to Both Sides: The Effects of Major Conventional Weapons Transfers on Civil War Severity and Duration (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.676511)
+- [Expectations, Rivalries, and Civil War Duration (2005)](https://www.tandfonline.com/doi/full/10.1080/03050620500303449)
+- [Foreign Fighters and Conflict-Related Sexual Violence (2021)](https://academic.oup.com/isq/article-abstract/65/1/69/6047296?redirectedFrom=fulltext)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -402,6 +410,11 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Educational Access and Peace Duration in Post-Conflict Countries (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.640211)
 - [Civil War Settlements, Size of Governing Coalition, and Durability of Peace in Post–Civil War States (2011)](https://www.tandfonline.com/doi/full/10.1080/03050629.2011.622645)
 - [Not All Peace Years Are Created Equal: Trade, Imposed Settlements, and Recurrent Conflict (2010)](https://www.tandfonline.com/doi/full/10.1080/03050629.2010.524509)
+- [International Relations Theory and How Civil Wars End (2009)](https://www.tandfonline.com/doi/full/10.1080/03050620903084885)
+- [Mediating Civil War Settlements and the Duration of Peace (2008)](https://www.tandfonline.com/doi/full/10.1080/03050620802043362)
+- [Sustaining the Peace: Determinants of Civil War Recurrence (2007)](https://www.tandfonline.com/doi/full/10.1080/03050620701277673)
+- [Conflict-Related Sexual Violence and the Re-Escalation of Lethal Violence (2021)](https://academic.oup.com/isq/article-abstract/65/1/56/6024460?redirectedFrom=fulltext)
+- [Heterogeneous Effects of Development Aid on Violent Unrest in Postwar Countries: Village-Level Evidence from Nepal (2020)](https://academic.oup.com/isq/article-abstract/64/1/168/5647368?redirectedFrom=fulltext)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
