@@ -165,6 +165,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Repression, Grievances, Mobilization, and Rebellion: A New Test of Gurr’s Model of Ethnopolitical Rebellion (2005)](https://www.tandfonline.com/doi/full/10.1080/03050620590919452)
 - [Causal Evidence for Theories of Contagious Civil Unrest (2024)](https://academic.oup.com/isq/article-abstract/68/4/sqae124/7818364?redirectedFrom=fulltext)
 - [Which Institutions Matter? Re-Considering the Democratic Civil Peace (2021)](https://academic.oup.com/isq/article/65/1/223/5990223)
+- [Foreign Sponsorship of Armed Groups and Civil War (2024)](https://academic.oup.com/isq/article-abstract/68/2/sqae065/7641119?redirectedFrom=fulltext)
+- [Peace Above the Glass Ceiling: The Historical Relationship between Female Political Empowerment and Civil Conflict (2020)](https://academic.oup.com/isq/article-abstract/64/4/879/5908073?redirectedFrom=fulltext)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -335,6 +337,21 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Selling to Both Sides: The Effects of Major Conventional Weapons Transfers on Civil War Severity and Duration (2012)](https://www.tandfonline.com/doi/full/10.1080/03050629.2012.676511)
 - [Expectations, Rivalries, and Civil War Duration (2005)](https://www.tandfonline.com/doi/full/10.1080/03050620500303449)
 - [Foreign Fighters and Conflict-Related Sexual Violence (2021)](https://academic.oup.com/isq/article-abstract/65/1/69/6047296?redirectedFrom=fulltext)
+- [Conditional Protection? Sex, Gender, and Discourse in UN Peacekeeping (2019)](https://academic.oup.com/isq/article-abstract/63/1/30/5290471?redirectedFrom=fulltext)
+- [Taking Civilians: Terrorist Kidnapping in Civil War (2024)](https://academic.oup.com/isq/article-abstract/68/2/sqae074/7660014?redirectedFrom=fulltext)
+- [Learning to Fight Together: UN Peacekeeping Coalitions and Civilian Protection (2024)](https://academic.oup.com/isq/article-abstract/68/3/sqae118/7742333?redirectedFrom=fulltext)
+- [Pressed to Prolong: Conscription, the Costs of Military Labor, and Civil War Duration (2023)](https://academic.oup.com/isq/article-abstract/67/2/sqad016/7078998?redirectedFrom=fulltext)
+- [Thinking Outside of the Box: Transnational Terrorism in Civil Wars (2023)](https://academic.oup.com/isq/article-abstract/67/2/sqad017/7094639?redirectedFrom=fulltext)
+- [Determinants of Conflict-Related Sexual Violence: A Meta-Reanalysis Distinguishing Two Classes of Zero Observations (2023)](https://academic.oup.com/isq/article/67/3/sqad044/7197696)
+- [Aiding War: Foreign Aid and the Intensity of Violent Armed Conflict (2023)](https://academic.oup.com/isq/article-abstract/67/3/sqad048/7224329?redirectedFrom=fulltext)
+- [Fair-Weather Abusers? Civil War Dynamics and the Onset of State-Sponsored Violence (2023)](https://academic.oup.com/isq/article-abstract/67/4/sqad077/7281496?redirectedFrom=fulltext)
+- [All Peacekeeping is Local: Measuring Subnational Variation in Peacekeeping Effectiveness (2022)](https://academic.oup.com/isq/article-abstract/66/2/sqac010/6583385?redirectedFrom=fulltext)
+- [Rebel Child Soldiering and Conflict-Related Sexual Violence (2022)](https://academic.oup.com/isq/article/66/4/sqac073/6808775)
+- [The Logic of Ceasefires in Civil War (2021)](https://academic.oup.com/isq/article/65/3/633/6277949)
+- [Sexual Violence by the State: The Role of Political Institutions in Sexual Violence Perpetration (2021)](https://academic.oup.com/isq/article-abstract/65/3/768/6309154?redirectedFrom=fulltext)
+- [Rebel Group Attrition and Reversion to Violence: Micro-Level Evidence from Syria (2020)](https://academic.oup.com/isq/article-abstract/64/2/285/5716907?redirectedFrom=fulltext)
+- [Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone (2020)](https://academic.oup.com/isq/article-abstract/64/2/295/5760361?redirectedFrom=fulltext)
+- [Excluded Ethnic Groups, Conflict Contagion, and the Onset of Genocide and Politicide during Civil War (2020)](https://academic.oup.com/isq/article-abstract/64/4/857/5896687?redirectedFrom=fulltext)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -415,6 +432,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Sustaining the Peace: Determinants of Civil War Recurrence (2007)](https://www.tandfonline.com/doi/full/10.1080/03050620701277673)
 - [Conflict-Related Sexual Violence and the Re-Escalation of Lethal Violence (2021)](https://academic.oup.com/isq/article-abstract/65/1/56/6024460?redirectedFrom=fulltext)
 - [Heterogeneous Effects of Development Aid on Violent Unrest in Postwar Countries: Village-Level Evidence from Nepal (2020)](https://academic.oup.com/isq/article-abstract/64/1/168/5647368?redirectedFrom=fulltext)
+- [Participatory Rebel Governance and Durability of Peace (2024)](https://academic.oup.com/isq/article-abstract/68/2/sqae061/7649191?redirectedFrom=fulltext)
+- [The Intractability of Islamist Insurgencies: Islamist Rebels and the Recurrence of Civil War (2021)](https://academic.oup.com/isq/article/65/3/620/6317979)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -464,3 +483,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Employing local peacekeeping data to forecast changes in violence (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2055010)
 - [Predicting (de-)escalation of sub-national violence using gradient boosting: Does it work? (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2021198)
 - [Democratization in Conflict Research: How Conceptualization Affects Operationalization and Testing Outcomes (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1257489)
+- [Can We Predict Armed Conflict? How the First 9 Years of Published Forecasts Stand Up to Reality (2021)](https://academic.oup.com/isq/article/65/3/660/6124679)
