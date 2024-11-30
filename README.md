@@ -167,6 +167,15 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Which Institutions Matter? Re-Considering the Democratic Civil Peace (2021)](https://academic.oup.com/isq/article/65/1/223/5990223)
 - [Foreign Sponsorship of Armed Groups and Civil War (2024)](https://academic.oup.com/isq/article-abstract/68/2/sqae065/7641119?redirectedFrom=fulltext)
 - [Peace Above the Glass Ceiling: The Historical Relationship between Female Political Empowerment and Civil Conflict (2020)](https://academic.oup.com/isq/article-abstract/64/4/879/5908073?redirectedFrom=fulltext)
+- [Economic Grievances and Civil War: An Application to the Resource Curse (2019)](https://academic.oup.com/isq/article-abstract/63/2/244/5377575?redirectedFrom=fulltext)
+- [Information, Secrecy, and Civilian Targeting (2019)](https://academic.oup.com/isq/article-abstract/63/2/322/5429561?redirectedFrom=fulltext)
+- [What Were the Consequences of Decolonization? (2019)](https://academic.oup.com/isq/article-abstract/63/2/406/5377578?redirectedFrom=fulltext)
+- [History and Ethnic Conflict: Does Precolonial Centralization Matter? (2019)](https://academic.oup.com/isq/article-abstract/63/2/417/5398554?redirectedFrom=fulltext)
+- [Competitive Intervention, Protracted Conflict, and the Global Prevalence of Civil War (2019)](https://academic.oup.com/isq/article-abstract/63/3/692/5521927?redirectedFrom=fulltext)
+- [Make Love, Not War: Do Single Young Men Cause Political Violence? (2019)](https://academic.oup.com/isq/article-abstract/63/4/890/5544866?redirectedFrom=fulltext)
+- [State Capacity, Insurgency, and Civil War: A Disaggregated Analysis (2018)](https://academic.oup.com/isq/article-abstract/62/2/274/4909422?redirectedFrom=fulltext)
+- [Rural Grievances, Landholding Inequality, and Civil Conflict (2016)](https://academic.oup.com/isq/article-abstract/60/3/511/2469893?redirectedFrom=fulltext)
+- [Oil Discoveries, Shifting Power, and Civil Conflict (2015)](https://academic.oup.com/isq/article-abstract/59/3/517/1812394?redirectedFrom=fulltext)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -352,6 +361,14 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Rebel Group Attrition and Reversion to Violence: Micro-Level Evidence from Syria (2020)](https://academic.oup.com/isq/article-abstract/64/2/285/5716907?redirectedFrom=fulltext)
 - [Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone (2020)](https://academic.oup.com/isq/article-abstract/64/2/295/5760361?redirectedFrom=fulltext)
 - [Excluded Ethnic Groups, Conflict Contagion, and the Onset of Genocide and Politicide during Civil War (2020)](https://academic.oup.com/isq/article-abstract/64/4/857/5896687?redirectedFrom=fulltext)
+- [Diversionary Rebel Violence in Territorial Civil War (2019)](https://academic.oup.com/isq/article/63/2/215/5372267)
+- [Blue Helmets, Red Flags: Institutional, Societal, and Military Determinants of Peacekeeping Abuses (2019)](https://academic.oup.com/isq/article-abstract/63/3/626/5482423?redirectedFrom=fulltext)
+- [U.N. Peacekeeping Forces and the Demand for Sex Trafficking (2018)](https://academic.oup.com/isq/article-abstract/62/3/643/5076386?redirectedFrom=fulltext)
+- [Local Religious Institutions and the Impact of Interethnic Inequality on Conflict (2018)](https://academic.oup.com/isq/article-abstract/62/4/765/5162476?redirectedFrom=fulltext)
+- [Don't Bite the Hand that Feeds: Rebel Funding Sources and the Use of Terrorism in Civil Wars (2018)](https://academic.oup.com/isq/article-abstract/62/4/782/5162479?redirectedFrom=fulltext)
+- [Military Technology and the Duration of Civil Conflict (2017)](https://academic.oup.com/isq/article-abstract/61/3/704/4331617?redirectedFrom=fulltext)
+- [Civilianizing Civil Conflict: Civilian Defense Militias and the Logic of Violence in Intrastate Conflict (2016)](https://academic.oup.com/isq/article-abstract/60/3/499/2469859?redirectedFrom=fulltext)
+- [Roving Bandits? The Geographical Evolution of African Armed Conflicts (2015)](https://academic.oup.com/isq/article-abstract/59/3/503/1811936?redirectedFrom=fulltext)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -434,6 +451,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Heterogeneous Effects of Development Aid on Violent Unrest in Postwar Countries: Village-Level Evidence from Nepal (2020)](https://academic.oup.com/isq/article-abstract/64/1/168/5647368?redirectedFrom=fulltext)
 - [Participatory Rebel Governance and Durability of Peace (2024)](https://academic.oup.com/isq/article-abstract/68/2/sqae061/7649191?redirectedFrom=fulltext)
 - [The Intractability of Islamist Insurgencies: Islamist Rebels and the Recurrence of Civil War (2021)](https://academic.oup.com/isq/article/65/3/620/6317979)
+- [The Promise and Peril of Peacekeeping Economies (2019)](https://academic.oup.com/isq/article-abstract/63/2/364/5459759?redirectedFrom=fulltext)
+- [Government-Sponsored Mass Killing and Civil War Reoccurrence (2017)](https://academic.oup.com/isq/article-abstract/61/3/677/4609690?redirectedFrom=fulltext)
+- [Conflict Recurrence and Postconflict Justice: Addressing Motivations and Opportunities for Sustainable Peace (2017)](https://academic.oup.com/isq/article-abstract/61/3/690/4643613?redirectedFrom=fulltext)
+- [What Makes an Ex-Combatant Happy? A Micro-analysis of Disarmament, Demobilization, and Reintegration in South Sudan (2015)](https://academic.oup.com/isq/article-abstract/59/4/654/1790370?redirectedFrom=fulltext)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -484,3 +505,6 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Predicting (de-)escalation of sub-national violence using gradient boosting: Does it work? (2022)](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2021198)
 - [Democratization in Conflict Research: How Conceptualization Affects Operationalization and Testing Outcomes (2017)](https://www.tandfonline.com/doi/full/10.1080/03050629.2017.1257489)
 - [Can We Predict Armed Conflict? How the First 9 Years of Published Forecasts Stand Up to Reality (2021)](https://academic.oup.com/isq/article/65/3/660/6124679)
+- [A Critique of Dyadic Design (2016)](https://academic.oup.com/isq/article-abstract/60/2/355/1753734?redirectedFrom=fulltext)
+- [A Conditional Defense of the Dyadic Approach (2016)](https://academic.oup.com/isq/article-abstract/60/2/363/1753630?redirectedFrom=fulltext)
+- [Dyads Are Dead, Long Live Dyads! The Limits of Dyadic Designs in International Relations Research (2016)](https://academic.oup.com/isq/article-abstract/60/2/369/1753692?redirectedFrom=fulltext)
