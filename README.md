@@ -178,6 +178,15 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Oil Discoveries, Shifting Power, and Civil Conflict (2015)](https://academic.oup.com/isq/article-abstract/59/3/517/1812394?redirectedFrom=fulltext)
 - [Square Pegs in Round Holes: Inequalities, Grievances, and Civil War (2014)](https://academic.oup.com/isq/article-abstract/58/2/418/1792943?redirectedFrom=fulltext)
 - [Capitalist Development and Civil War (2012)](https://academic.oup.com/isq/article-abstract/56/3/470/1793770?redirectedFrom=fulltext)
+- [Regional Inequalities and Civil Conflict in Sub-Saharan Africa (2009)](https://academic.oup.com/isq/article-abstract/53/2/301/1852205?redirectedFrom=fulltext)
+- [Principal-Agent Problems in Humanitarian Intervention: Moral Hazards, Adverse Selection, and the Commitment Dilemma (2009)](https://academic.oup.com/isq/article-abstract/53/4/871/1815764?redirectedFrom=fulltext)
+- [The Moral Hazard of Humanitarian Intervention: Lessons from the Balkans (2008)](https://academic.oup.com/isq/article-abstract/52/1/49/1791134?redirectedFrom=fulltext)
+- [Natural Disasters and the Risk of Violent Civil Conflict (2008)](https://academic.oup.com/isq/article-abstract/52/1/159/1789186?redirectedFrom=fulltext)
+- [Contagion or Confusion? Why Conflicts Cluster in Space (2008)](https://academic.oup.com/isq/article-abstract/52/2/215/1792634?redirectedFrom=fulltext)
+- [A Clash of Generations? Youth Bulges and Political Violence (2006)](https://academic.oup.com/isq/article-abstract/50/3/607/1800827?redirectedFrom=fulltext)
+- [ABC's, 123's, and the Golden Rule: The Pacifying Effect of Education on Civil War, 1980–1999 (2006)](https://academic.oup.com/isq/article-abstract/50/4/733/1838195?redirectedFrom=fulltext)
+- [Primed for Violence: The Role of Gender Inequality in Predicting Internal Conflict (2005)](https://academic.oup.com/isq/article-abstract/49/2/161/1793002?redirectedFrom=fulltext)
+- [Gender Equality and Intrastate Armed Conflict (2005)](https://academic.oup.com/isq/article-abstract/49/4/695/1813634?redirectedFrom=fulltext)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -373,6 +382,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Roving Bandits? The Geographical Evolution of African Armed Conflicts (2015)](https://academic.oup.com/isq/article-abstract/59/3/503/1811936?redirectedFrom=fulltext)
 - [Information, Commitment, and Intra-War Bargaining: The Effect of Governmental Constraints on Civil War Duration (2012)](https://academic.oup.com/isq/article-abstract/56/2/307/1797911?redirectedFrom=fulltext)
 - [Rivalry and Revenge: Violence against Civilians in Conventional Civil Wars (2010)](https://academic.oup.com/isq/article-abstract/54/2/291/1793034?redirectedFrom=fulltext)
+- [Wartime Sexual Violence in Guatemala and Peru (2009)](https://academic.oup.com/isq/article-abstract/53/2/445/1856585?redirectedFrom=fulltext)
+- [Why Do Soldiers Rape? Masculinity, Violence, and Sexuality in the Armed Forces in the Congo (DRC) (2009)](https://academic.oup.com/isq/article-abstract/53/2/495/1858042?redirectedFrom=fulltext)
+- [Ruthless Rulers: Coalition Size and the Severity of Civil Conflict (2007)](https://academic.oup.com/isq/article-abstract/51/2/385/1923943?redirectedFrom=fulltext)
+- [International Intervention and the Severity of Genocides and Politicides (2005)](https://academic.oup.com/isq/article-abstract/49/3/363/1934221?redirectedFrom=fulltext)
+- [Killing Time: The World Politics of Civil War Duration, 1820–1992 (2000)](https://academic.oup.com/isq/article-abstract/44/4/615/1817086?redirectedFrom=fulltext)
+- [Does government response to natural disasters explain violence? The case of the Sendero Luminoso and conflict in Peru (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13438)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -460,6 +475,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Conflict Recurrence and Postconflict Justice: Addressing Motivations and Opportunities for Sustainable Peace (2017)](https://academic.oup.com/isq/article-abstract/61/3/690/4643613?redirectedFrom=fulltext)
 - [What Makes an Ex-Combatant Happy? A Micro-analysis of Disarmament, Demobilization, and Reintegration in South Sudan (2015)](https://academic.oup.com/isq/article-abstract/59/4/654/1790370?redirectedFrom=fulltext)
 - [The Rule of Law in Post-Conflict Settings: The Empirical Record (2014)](https://academic.oup.com/isq/article-abstract/58/2/405/1792638?redirectedFrom=fulltext)
+- [Fostering Peace After Civil War: Commitment Problems and Agreement Design (2009)](https://academic.oup.com/isq/article-abstract/53/3/737/1797646?redirectedFrom=fulltext)
+- [Why Political Power-Sharing Agreements Lead to Enduring Peaceful Resolution of Some Civil Wars, But Not Others? (2006)](https://academic.oup.com/isq/article-abstract/50/2/479/1819734?redirectedFrom=fulltext)
+- [The Peacekeeping–Peacemaking Dilemma (2005)](https://academic.oup.com/isq/article-abstract/49/4/621/1811037?redirectedFrom=fulltext)
+- [Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War (2004)](https://academic.oup.com/isq/article-abstract/48/2/269/1888752?redirectedFrom=fulltext)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -517,3 +536,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Why “isms” Are Evil: Theory, Epistemology, and Academic Sects as Impediments to Understanding and Progress (2011)](https://academic.oup.com/isq/article-abstract/55/2/465/1796473?redirectedFrom=fulltext)
 - [De-Centering, Not Discarding, the “Isms”: Some Friendly Amendments (2011)](https://academic.oup.com/isq/article-abstract/55/2/481/1796760?redirectedFrom=fulltext)
 - [No Alternative to “Isms” (2011)](https://academic.oup.com/isq/article-abstract/55/2/487/1796932?redirectedFrom=fulltext)
+- [Risky Inference: Unobserved Treatment Effects in Conflict Studies (2003)](https://academic.oup.com/isq/article-abstract/47/3/417/1925174?redirectedFrom=fulltext)
