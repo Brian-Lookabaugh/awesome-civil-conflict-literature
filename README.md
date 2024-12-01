@@ -176,6 +176,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [State Capacity, Insurgency, and Civil War: A Disaggregated Analysis (2018)](https://academic.oup.com/isq/article-abstract/62/2/274/4909422?redirectedFrom=fulltext)
 - [Rural Grievances, Landholding Inequality, and Civil Conflict (2016)](https://academic.oup.com/isq/article-abstract/60/3/511/2469893?redirectedFrom=fulltext)
 - [Oil Discoveries, Shifting Power, and Civil Conflict (2015)](https://academic.oup.com/isq/article-abstract/59/3/517/1812394?redirectedFrom=fulltext)
+- [Square Pegs in Round Holes: Inequalities, Grievances, and Civil War (2014)](https://academic.oup.com/isq/article-abstract/58/2/418/1792943?redirectedFrom=fulltext)
+- [Capitalist Development and Civil War (2012)](https://academic.oup.com/isq/article-abstract/56/3/470/1793770?redirectedFrom=fulltext)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -369,6 +371,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Military Technology and the Duration of Civil Conflict (2017)](https://academic.oup.com/isq/article-abstract/61/3/704/4331617?redirectedFrom=fulltext)
 - [Civilianizing Civil Conflict: Civilian Defense Militias and the Logic of Violence in Intrastate Conflict (2016)](https://academic.oup.com/isq/article-abstract/60/3/499/2469859?redirectedFrom=fulltext)
 - [Roving Bandits? The Geographical Evolution of African Armed Conflicts (2015)](https://academic.oup.com/isq/article-abstract/59/3/503/1811936?redirectedFrom=fulltext)
+- [Information, Commitment, and Intra-War Bargaining: The Effect of Governmental Constraints on Civil War Duration (2012)](https://academic.oup.com/isq/article-abstract/56/2/307/1797911?redirectedFrom=fulltext)
+- [Rivalry and Revenge: Violence against Civilians in Conventional Civil Wars (2010)](https://academic.oup.com/isq/article-abstract/54/2/291/1793034?redirectedFrom=fulltext)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -455,6 +459,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Government-Sponsored Mass Killing and Civil War Reoccurrence (2017)](https://academic.oup.com/isq/article-abstract/61/3/677/4609690?redirectedFrom=fulltext)
 - [Conflict Recurrence and Postconflict Justice: Addressing Motivations and Opportunities for Sustainable Peace (2017)](https://academic.oup.com/isq/article-abstract/61/3/690/4643613?redirectedFrom=fulltext)
 - [What Makes an Ex-Combatant Happy? A Micro-analysis of Disarmament, Demobilization, and Reintegration in South Sudan (2015)](https://academic.oup.com/isq/article-abstract/59/4/654/1790370?redirectedFrom=fulltext)
+- [The Rule of Law in Post-Conflict Settings: The Empirical Record (2014)](https://academic.oup.com/isq/article-abstract/58/2/405/1792638?redirectedFrom=fulltext)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -508,3 +513,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [A Critique of Dyadic Design (2016)](https://academic.oup.com/isq/article-abstract/60/2/355/1753734?redirectedFrom=fulltext)
 - [A Conditional Defense of the Dyadic Approach (2016)](https://academic.oup.com/isq/article-abstract/60/2/363/1753630?redirectedFrom=fulltext)
 - [Dyads Are Dead, Long Live Dyads! The Limits of Dyadic Designs in International Relations Research (2016)](https://academic.oup.com/isq/article-abstract/60/2/369/1753692?redirectedFrom=fulltext)
+- [Predicting Armed Conflict, 2010–2050 (2013)](https://academic.oup.com/isq/article-abstract/57/2/250/1787557?redirectedFrom=fulltext)
+- [Why “isms” Are Evil: Theory, Epistemology, and Academic Sects as Impediments to Understanding and Progress (2011)](https://academic.oup.com/isq/article-abstract/55/2/465/1796473?redirectedFrom=fulltext)
+- [De-Centering, Not Discarding, the “Isms”: Some Friendly Amendments (2011)](https://academic.oup.com/isq/article-abstract/55/2/481/1796760?redirectedFrom=fulltext)
+- [No Alternative to “Isms” (2011)](https://academic.oup.com/isq/article-abstract/55/2/487/1796932?redirectedFrom=fulltext)
