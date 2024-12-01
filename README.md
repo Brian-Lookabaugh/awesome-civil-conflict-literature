@@ -187,6 +187,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [ABC's, 123's, and the Golden Rule: The Pacifying Effect of Education on Civil War, 1980–1999 (2006)](https://academic.oup.com/isq/article-abstract/50/4/733/1838195?redirectedFrom=fulltext)
 - [Primed for Violence: The Role of Gender Inequality in Predicting Internal Conflict (2005)](https://academic.oup.com/isq/article-abstract/49/2/161/1793002?redirectedFrom=fulltext)
 - [Gender Equality and Intrastate Armed Conflict (2005)](https://academic.oup.com/isq/article-abstract/49/4/695/1813634?redirectedFrom=fulltext)
+- [Is There a Tradeoff Between Democratization and Stability? A Typological Analysis of the Third-Wavers, 1974–2014 (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12364)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -388,6 +389,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [International Intervention and the Severity of Genocides and Politicides (2005)](https://academic.oup.com/isq/article-abstract/49/3/363/1934221?redirectedFrom=fulltext)
 - [Killing Time: The World Politics of Civil War Duration, 1820–1992 (2000)](https://academic.oup.com/isq/article-abstract/44/4/615/1817086?redirectedFrom=fulltext)
 - [Does government response to natural disasters explain violence? The case of the Sendero Luminoso and conflict in Peru (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13438)
+- [The Empire Strikes Back: Ethnicity, Terrain, and Indiscriminate Violence in Counterinsurgencies (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12192)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
