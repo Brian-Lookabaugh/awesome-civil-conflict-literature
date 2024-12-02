@@ -191,6 +191,11 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [When Strength Becomes Weakness: Precolonial State Development, Monopoly on Violence, and Civil War (2023)](https://journals.sagepub.com/doi/abs/10.1177/00104140231169017)
 - [External Intervention, Identity, and Civil War (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414020912279)
 - [Leader Succession and Civil War (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019852712)
+- [Why Did Drug Cartels Go to War in Mexico? Subnational Party Alternation, the Breakdown of Criminal Protection, and the Onset of Large-Scale Violence (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017720703)
+- [Do Protestant Missionaries Undermine Political Authority? Evidence From Peru (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017710260)
+- [How Does Ethnic Rebellion Start? (2017)](https://journals.sagepub.com/doi/full/10.1177/0010414016672235)
+- [Elections, Ethnicity, and Political Instability (2017)](https://journals.sagepub.com/doi/abs/10.1177/0010414016666858)
+- [Does Reform Prevent Rebellion? Evidence From Russia’s Emancipation of the Serfs (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014565887)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -487,6 +492,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Peacekeeping–Peacemaking Dilemma (2005)](https://academic.oup.com/isq/article-abstract/49/4/621/1811037?redirectedFrom=fulltext)
 - [Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War (2004)](https://academic.oup.com/isq/article-abstract/48/2/269/1888752?redirectedFrom=fulltext)
 - [Peacekeepers Without Helmets: How Violence Shapes Local Peacebuilding by Civilian Peacekeepers (2024)](https://journals.sagepub.com/doi/full/10.1177/00104140231178740)
+- [The Political Conditions for Local Peacemaking: A Comparative Study of Communal Conflict Resolution in Kenya (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414019830734)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
