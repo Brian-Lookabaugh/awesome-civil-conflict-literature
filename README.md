@@ -188,6 +188,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Primed for Violence: The Role of Gender Inequality in Predicting Internal Conflict (2005)](https://academic.oup.com/isq/article-abstract/49/2/161/1793002?redirectedFrom=fulltext)
 - [Gender Equality and Intrastate Armed Conflict (2005)](https://academic.oup.com/isq/article-abstract/49/4/695/1813634?redirectedFrom=fulltext)
 - [Is There a Tradeoff Between Democratization and Stability? A Typological Analysis of the Third-Wavers, 1974–2014 (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12364)
+- [When Strength Becomes Weakness: Precolonial State Development, Monopoly on Violence, and Civil War (2023)](https://journals.sagepub.com/doi/abs/10.1177/00104140231169017)
+- [External Intervention, Identity, and Civil War (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414020912279)
+- [Leader Succession and Civil War (2020)](https://journals.sagepub.com/doi/abs/10.1177/0010414019852712)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -390,6 +393,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Killing Time: The World Politics of Civil War Duration, 1820–1992 (2000)](https://academic.oup.com/isq/article-abstract/44/4/615/1817086?redirectedFrom=fulltext)
 - [Does government response to natural disasters explain violence? The case of the Sendero Luminoso and conflict in Peru (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13438)
 - [The Empire Strikes Back: Ethnicity, Terrain, and Indiscriminate Violence in Counterinsurgencies (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12192)
+- [An Informational Theory of Genocide and Politicide During Civil War (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211047411)
+- [The Power to Resist: Mobilization and the Logic of Terrorist Attacks in Civil War (2020)](https://journals.sagepub.com/doi/full/10.1177/0010414020912264)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -481,6 +486,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Why Political Power-Sharing Agreements Lead to Enduring Peaceful Resolution of Some Civil Wars, But Not Others? (2006)](https://academic.oup.com/isq/article-abstract/50/2/479/1819734?redirectedFrom=fulltext)
 - [The Peacekeeping–Peacemaking Dilemma (2005)](https://academic.oup.com/isq/article-abstract/49/4/621/1811037?redirectedFrom=fulltext)
 - [Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War (2004)](https://academic.oup.com/isq/article-abstract/48/2/269/1888752?redirectedFrom=fulltext)
+- [Peacekeepers Without Helmets: How Violence Shapes Local Peacebuilding by Civilian Peacekeepers (2024)](https://journals.sagepub.com/doi/full/10.1177/00104140231178740)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
