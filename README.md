@@ -196,6 +196,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [How Does Ethnic Rebellion Start? (2017)](https://journals.sagepub.com/doi/full/10.1177/0010414016672235)
 - [Elections, Ethnicity, and Political Instability (2017)](https://journals.sagepub.com/doi/abs/10.1177/0010414016666858)
 - [Does Reform Prevent Rebellion? Evidence From Russia’s Emancipation of the Serfs (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014565887)
+- [Buying War Not Peace: The Influence of Corruption on the Risk of Ethnic War (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013516919)
+- [Elections and Ethnic Civil War (2013)](https://journals.sagepub.com/doi/full/10.1177/0010414012453697)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
