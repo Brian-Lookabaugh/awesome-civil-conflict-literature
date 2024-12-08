@@ -503,6 +503,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Peacekeepers Without Helmets: How Violence Shapes Local Peacebuilding by Civilian Peacekeepers (2024)](https://journals.sagepub.com/doi/full/10.1177/00104140231178740)
 - [The Political Conditions for Local Peacemaking: A Comparative Study of Communal Conflict Resolution in Kenya (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414019830734)
 - [Partition as a Solution to Ethnic War: An Empirical Critique of the Theoretical Literature (2000)](https://www.cambridge.org/core/journals/world-politics/article/partition-as-a-solution-to-ethnic-war-an-empirical-critique-of-the-theoretical-literature/090A15FCCC8D2D03FEB9EBFEF761F1C4)
+- [On the effectiveness of democracy aid in post-civil war recipient countries (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2268536)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
