@@ -198,6 +198,12 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Does Reform Prevent Rebellion? Evidence From Russia’s Emancipation of the Serfs (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414014565887)
 - [Buying War Not Peace: The Influence of Corruption on the Risk of Ethnic War (2014)](https://journals.sagepub.com/doi/abs/10.1177/0010414013516919)
 - [Elections and Ethnic Civil War (2013)](https://journals.sagepub.com/doi/full/10.1177/0010414012453697)
+- [Preventing Civil War How the Potential for International Intervention can Deter Conflict Onset (2016)](https://www.cambridge.org/core/journals/world-politics/article/abs/preventing-civil-war/E91FDD1045B39FAED9C707706370CE7A)
+- [The Enemy Within: Personal Rule, Coups, and Civil War in Africa (2011)](https://www.cambridge.org/core/journals/world-politics/article/enemy-within-personal-rule-coups-and-civil-war-in-africa/0113FB019766DF1280A7F36E326EE696)
+- [Why Do Ethnic Groups Rebel? New Data and Analysis (2010)](https://www.cambridge.org/core/journals/world-politics/article/abs/why-do-ethnic-groups-rebel-new-data-and-analysis/4F69AEFBD88FAADE63207FF7D1F69449)
+- [Ethnonationalist Triads: Assessing the Influence of Kin Groups on Civil Wars (2009)](https://www.cambridge.org/core/journals/world-politics/article/abs/ethnonationalist-triads-assessing-the-influence-of-kin-groups-on-civil-wars/A6010936F814DA1A80D56A3A46D4D909)
+- [Economic Roots of Civil Wars and Revolutions in the Contemporary World (2008)](https://www.cambridge.org/core/journals/world-politics/article/abs/economic-roots-of-civil-wars-and-revolutions-in-the-contemporary-world/EDD73C741A0C6B52029B41E165D3C2BC)
+- [Diversity, Disparity, and Civil Conflict in Federal States (2007)](https://www.cambridge.org/core/journals/world-politics/article/abs/diversity-disparity-and-civil-conflict-in-federal-states/15BF00B8A984BEF378FC9A4152B2049B)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -402,6 +408,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Empire Strikes Back: Ethnicity, Terrain, and Indiscriminate Violence in Counterinsurgencies (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12192)
 - [An Informational Theory of Genocide and Politicide During Civil War (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211047411)
 - [The Power to Resist: Mobilization and the Logic of Terrorist Attacks in Civil War (2020)](https://journals.sagepub.com/doi/full/10.1177/0010414020912264)
+- [Ethnicity, the State, and the Duration of Civil War (2012)](https://www.cambridge.org/core/journals/world-politics/article/abs/ethnicity-the-state-and-the-duration-of-civil-war/2FF711444E955BED095EFD23C8451392)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -495,6 +502,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Does Peacekeeping Keep Peace? International Intervention and the Duration of Peace After Civil War (2004)](https://academic.oup.com/isq/article-abstract/48/2/269/1888752?redirectedFrom=fulltext)
 - [Peacekeepers Without Helmets: How Violence Shapes Local Peacebuilding by Civilian Peacekeepers (2024)](https://journals.sagepub.com/doi/full/10.1177/00104140231178740)
 - [The Political Conditions for Local Peacemaking: A Comparative Study of Communal Conflict Resolution in Kenya (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414019830734)
+- [Partition as a Solution to Ethnic War: An Empirical Critique of the Theoretical Literature (2000)](https://www.cambridge.org/core/journals/world-politics/article/partition-as-a-solution-to-ethnic-war-an-empirical-critique-of-the-theoretical-literature/090A15FCCC8D2D03FEB9EBFEF761F1C4)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -553,3 +561,5 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [De-Centering, Not Discarding, the “Isms”: Some Friendly Amendments (2011)](https://academic.oup.com/isq/article-abstract/55/2/481/1796760?redirectedFrom=fulltext)
 - [No Alternative to “Isms” (2011)](https://academic.oup.com/isq/article-abstract/55/2/487/1796932?redirectedFrom=fulltext)
 - [Risky Inference: Unobserved Treatment Effects in Conflict Studies (2003)](https://academic.oup.com/isq/article-abstract/47/3/417/1925174?redirectedFrom=fulltext)
+- [How “Free” is Free Riding in Civil Wars?: Violence, Insurgency, and the Collective Action Problem (2007)](https://www.cambridge.org/core/journals/world-politics/article/how-free-is-free-riding-in-civil-wars-violence-insurgency-and-the-collective-action-problem/EAAA891D5C9D591089EAA9705A6021D6)
+- [“New” and “Old” Civil Wars: A Valid Distinction? (2002)](https://www.cambridge.org/core/journals/world-politics/article/abs/new-and-old-civil-wars-a-valid-distinction/46C7C5D88F9A432F470EA60A1CF5D024)
