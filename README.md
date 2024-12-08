@@ -504,6 +504,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The Political Conditions for Local Peacemaking: A Comparative Study of Communal Conflict Resolution in Kenya (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414019830734)
 - [Partition as a Solution to Ethnic War: An Empirical Critique of the Theoretical Literature (2000)](https://www.cambridge.org/core/journals/world-politics/article/partition-as-a-solution-to-ethnic-war-an-empirical-critique-of-the-theoretical-literature/090A15FCCC8D2D03FEB9EBFEF761F1C4)
 - [On the effectiveness of democracy aid in post-civil war recipient countries (2024)](https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2268536)
+- [Voting for peace, mobilizing for war: post-conflict voter turnout and civil war recurrence (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1218474)
+- [Does political inclusion of rebel parties promote peace after civil conflict? (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1192606)
+- [From victorious rebels to strong authoritarian parties: prospects for post-war democratization (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1168404)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
