@@ -507,6 +507,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Voting for peace, mobilizing for war: post-conflict voter turnout and civil war recurrence (2017)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1218474)
 - [Does political inclusion of rebel parties promote peace after civil conflict? (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1192606)
 - [From victorious rebels to strong authoritarian parties: prospects for post-war democratization (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2016.1168404)
+- [Inclusive institutions and stability of transition toward democracy in post-civil war states (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.666067)
+- [Power-sharing and democracy promotion in post-civil war peace-building (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.674359)
+- [Post-civil war democratization: promotion of democracy in post-civil war states, 1946–2005 (2010)](https://www.tandfonline.com/doi/full/10.1080/13510347.2010.501173)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
