@@ -409,6 +409,10 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [An Informational Theory of Genocide and Politicide During Civil War (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211047411)
 - [The Power to Resist: Mobilization and the Logic of Terrorist Attacks in Civil War (2020)](https://journals.sagepub.com/doi/full/10.1177/0010414020912264)
 - [Ethnicity, the State, and the Duration of Civil War (2012)](https://www.cambridge.org/core/journals/world-politics/article/abs/ethnicity-the-state-and-the-duration-of-civil-war/2FF711444E955BED095EFD23C8451392)
+- [The predicament of elections in war-torn societies (2009)](https://www.tandfonline.com/doi/full/10.1080/13510340902884689)
+- [Network Competition and Civilian Targeting during Civil Conflict (2023)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/network-competition-and-civilian-targeting-during-civil-conflict/3A221DDDCE8C6B16589AD613F6DF765B)
+- [The Extraordinary Relationship between Peacekeeping and Peace (2021)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/extraordinary-relationship-between-peacekeeping-and-peace/D2D5D262B60315387B0B23D1D4F79CC9)
+- [Obstacle to Peace? Ethnic Geography and Effectiveness of Peacekeeping (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/obstacle-to-peace-ethnic-geography-and-effectiveness-of-peacekeeping/80D52A5B586EBD8EA4F1481AC6D54184)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -510,6 +514,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Inclusive institutions and stability of transition toward democracy in post-civil war states (2013)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.666067)
 - [Power-sharing and democracy promotion in post-civil war peace-building (2012)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.674359)
 - [Post-civil war democratization: promotion of democracy in post-civil war states, 1946–2005 (2010)](https://www.tandfonline.com/doi/full/10.1080/13510347.2010.501173)
+- [Democratization after Civil Wars – Key Problems and Experiences (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340801972270)
+- [How Does International Intervention Work to Secure Peace Settlements After Civil Conflicts? (2022)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/how-does-international-intervention-work-to-secure-peace-settlements-after-civil-conflicts/66566A407AC4C39579860015E6D008DD)
+- [The Extraordinary Relationship between Peacekeeping and Peace (2021)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/extraordinary-relationship-between-peacekeeping-and-peace/D2D5D262B60315387B0B23D1D4F79CC9)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -570,3 +577,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Risky Inference: Unobserved Treatment Effects in Conflict Studies (2003)](https://academic.oup.com/isq/article-abstract/47/3/417/1925174?redirectedFrom=fulltext)
 - [How “Free” is Free Riding in Civil Wars?: Violence, Insurgency, and the Collective Action Problem (2007)](https://www.cambridge.org/core/journals/world-politics/article/how-free-is-free-riding-in-civil-wars-violence-insurgency-and-the-collective-action-problem/EAAA891D5C9D591089EAA9705A6021D6)
 - [“New” and “Old” Civil Wars: A Valid Distinction? (2002)](https://www.cambridge.org/core/journals/world-politics/article/abs/new-and-old-civil-wars-a-valid-distinction/46C7C5D88F9A432F470EA60A1CF5D024)
+- [The Future is a Moving Target: Predicting Political Instability (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/future-is-a-moving-target-predicting-political-instability/0028744BE1AFF83F879E7759D798D88A)
