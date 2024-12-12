@@ -204,6 +204,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Ethnonationalist Triads: Assessing the Influence of Kin Groups on Civil Wars (2009)](https://www.cambridge.org/core/journals/world-politics/article/abs/ethnonationalist-triads-assessing-the-influence-of-kin-groups-on-civil-wars/A6010936F814DA1A80D56A3A46D4D909)
 - [Economic Roots of Civil Wars and Revolutions in the Contemporary World (2008)](https://www.cambridge.org/core/journals/world-politics/article/abs/economic-roots-of-civil-wars-and-revolutions-in-the-contemporary-world/EDD73C741A0C6B52029B41E165D3C2BC)
 - [Diversity, Disparity, and Civil Conflict in Federal States (2007)](https://www.cambridge.org/core/journals/world-politics/article/abs/diversity-disparity-and-civil-conflict-in-federal-states/15BF00B8A984BEF378FC9A4152B2049B)
+- [Resolving Civil Wars before They Start: The UN Security Council and Conflict Prevention in Self-Determination Disputes (2017)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/resolving-civil-wars-before-they-start-the-un-security-council-and-conflict-prevention-in-selfdetermination-disputes/3AF64D5C019F97DE5F015FECE321CB17)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -413,6 +414,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Network Competition and Civilian Targeting during Civil Conflict (2023)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/network-competition-and-civilian-targeting-during-civil-conflict/3A221DDDCE8C6B16589AD613F6DF765B)
 - [The Extraordinary Relationship between Peacekeeping and Peace (2021)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/extraordinary-relationship-between-peacekeeping-and-peace/D2D5D262B60315387B0B23D1D4F79CC9)
 - [Obstacle to Peace? Ethnic Geography and Effectiveness of Peacekeeping (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/obstacle-to-peace-ethnic-geography-and-effectiveness-of-peacekeeping/80D52A5B586EBD8EA4F1481AC6D54184)
+- [Third-Party Actors and the Intentional Targeting of Civilians in War (2019)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/thirdparty-actors-and-the-intentional-targeting-of-civilians-in-war/CE93F0FE6F7BC33904F53B3378296C91)
+- [Kinds of Blue: Diversity in UN Peacekeeping Missions and Civilian Protection (2016)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/kinds-of-blue-diversity-in-un-peacekeeping-missions-and-civilian-protection/54C5B7FB27C145335952A52592221DCD)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -517,6 +520,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Democratization after Civil Wars – Key Problems and Experiences (2008)](https://www.tandfonline.com/doi/full/10.1080/13510340801972270)
 - [How Does International Intervention Work to Secure Peace Settlements After Civil Conflicts? (2022)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/how-does-international-intervention-work-to-secure-peace-settlements-after-civil-conflicts/66566A407AC4C39579860015E6D008DD)
 - [The Extraordinary Relationship between Peacekeeping and Peace (2021)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/extraordinary-relationship-between-peacekeeping-and-peace/D2D5D262B60315387B0B23D1D4F79CC9)
+- [Implementing the Peace: The Aggregate Implementation of Comprehensive Peace Agreements and Peace Duration after Intrastate Armed Conflict (2017)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/implementing-the-peace-the-aggregate-implementation-of-comprehensive-peace-agreements-and-peace-duration-after-intrastate-armed-conflict/E5CCABC853015434FDAEACA40266C393)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
