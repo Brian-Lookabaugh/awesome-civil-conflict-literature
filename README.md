@@ -212,6 +212,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Exogenous Shocks, Foreign Aid, and Civil War (2012)](https://www.cambridge.org/core/journals/international-organization/article/exogenous-shocks-foreign-aid-and-civil-war/80A552A8BE2688CF7F76D585CA04EDCB)
 - [Economic Liberalization via IMF Structural Adjustment: Sowing the Seeds of Civil War? (2010)](https://www.cambridge.org/core/journals/international-organization/article/abs/economic-liberalization-via-imf-structural-adjustment-sowing-the-seeds-of-civil-war/CE11CEDB3DCD6BF0944198AE0705A52F)
 - [Refugees and the Spread of Civil War (2006)](https://www.cambridge.org/core/journals/international-organization/article/abs/refugees-and-the-spread-of-civil-war/661D0F75EBC76E48585151BEBF858436)
+- [Revisiting the links between economic inequality and political violence: The role of social mobilization (2025)](https://www.sciencedirect.com/science/article/abs/pii/S0305750X24002900)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
