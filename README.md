@@ -216,6 +216,8 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Conflict and Development (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-061109-080205)
 - [Climate and Conflict (2015)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080614-115430)
 - [Climate Change and Conflict (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050317-070830)
+- [Farming then fighting: agricultural idle time and armed conflict (2024)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/farming-then-fighting-agricultural-idle-time-and-armed-conflict/8E9F95D3CF22AA1C061696BF735D380B)
+- [Elections and Civil War in Africa (2017)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/elections-and-civil-war-in-africa/522494740EE3F2AA936F6BA29A8D6057)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -620,3 +622,4 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [The New New Civil Wars (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-060415-093921)
 - [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1)
 - [Cluster–Robust Variance Estimation for Dyadic Data (2015)](https://www.cambridge.org/core/journals/political-analysis/article/abs/clusterrobust-variance-estimation-for-dyadic-data/D43E12BF35240100C7A4ED3C28912C95)
+- [Dyadic Analysis in International Relations: A Cautionary Tale (2014)](https://www.cambridge.org/core/journals/political-analysis/article/abs/dyadic-analysis-in-international-relations-a-cautionary-tale/76E81945C2EE4CD8142AB176B3C34049)
