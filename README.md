@@ -213,6 +213,9 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Economic Liberalization via IMF Structural Adjustment: Sowing the Seeds of Civil War? (2010)](https://www.cambridge.org/core/journals/international-organization/article/abs/economic-liberalization-via-imf-structural-adjustment-sowing-the-seeds-of-civil-war/CE11CEDB3DCD6BF0944198AE0705A52F)
 - [Refugees and the Spread of Civil War (2006)](https://www.cambridge.org/core/journals/international-organization/article/abs/refugees-and-the-spread-of-civil-war/661D0F75EBC76E48585151BEBF858436)
 - [Revisiting the links between economic inequality and political violence: The role of social mobilization (2025)](https://www.sciencedirect.com/science/article/abs/pii/S0305750X24002900)
+- [Conflict and Development (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-061109-080205)
+- [Climate and Conflict (2015)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080614-115430)
+- [Climate Change and Conflict (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050317-070830)
 
 # Civil Conflict Duration/Intensity/Violence
 - [Civilian Protest in Civil War: Insights from Côte d’Ivoire (2024)](https://www.cambridge.org/core/journals/american-political-science-review/article/civilian-protest-in-civil-war-insights-from-cote-divoire/7C2038DD8DD083768A929DBF7D46D263)
@@ -439,6 +442,11 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [External Rebel Sponsorship and Civilian Abuse: A Principal-Agent Analysis of Wartime Atrocities (2014)](https://www.cambridge.org/core/journals/international-organization/article/abs/external-rebel-sponsorship-and-civilian-abuse-a-principalagent-analysis-of-wartime-atrocities/7B8C7423A615E804A829E95AEE9E4A39)
 - [The Logic of Child Soldiering and Coercion (2013)](https://www.cambridge.org/core/journals/international-organization/article/logic-of-child-soldiering-and-coercion/EB8CC2FE13CC49C2846EEDE4FFD432FE)
 - [Do Democracies Make Inferior Counterinsurgents? Reassessing Democracy's Impact on War Outcomes and Duration (2010)](https://www.cambridge.org/core/journals/international-organization/article/abs/do-democracies-make-inferior-counterinsurgents-reassessing-democracys-impact-on-war-outcomes-and-duration/1B90F5C8769E22F27C8506499931AE14)
+- [Violence Against Civilians During Armed Conflict: Moving Beyond the Macro- and Micro-Level Divide (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-041719-102229)
+- [Conflict-Related Sexual Violence (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-041719-102620)
+- [Drugs and War: What Is the Relationship? (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-051017-103748)
+- [Why We Kill: The Political Science of Political Violence against Civilians (2014)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-082112-141937)
+- [Using Statistics to Assess Lethal Violence in Civil and Inter-State War (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-030718-105222)
 
 # Civil Conflict Recurrence/Peacebuilding
 - [Revolutionary Violence and Counterrevolution (2023](https://www.cambridge.org/core/journals/american-political-science-review/article/revolutionary-violence-and-counterrevolution/F39A56769C951BA7EE35166F03C4A80D)
@@ -546,6 +554,7 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [Implementing the Peace: The Aggregate Implementation of Comprehensive Peace Agreements and Peace Duration after Intrastate Armed Conflict (2017)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/implementing-the-peace-the-aggregate-implementation-of-comprehensive-peace-agreements-and-peace-duration-after-intrastate-armed-conflict/E5CCABC853015434FDAEACA40266C393)
 - [International Intervention and the Rule of Law after Civil War: Evidence from Liberia (2019)](https://www.cambridge.org/core/journals/international-organization/article/abs/international-intervention-and-the-rule-of-law-after-civil-war-evidence-from-liberia/CB10DA32D8B93FDE11F5185168828A1B)
 - [Deals with the Devil? Conflict Amnesties, Civil War, and Sustainable Peace (2018)](https://www.cambridge.org/core/journals/international-organization/article/abs/deals-with-the-devil-conflict-amnesties-civil-war-and-sustainable-peace/532CA7677518622B983BED82F208B2D5)
+- [Does Foreign Aid Build Peace? (2018)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-041916-015516)
 
 # Data/Methodology/Meta Reviews
 - [A Closer Look at Reporting Bias in Conflict Event Data (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12196)
@@ -608,3 +617,6 @@ My working list to create a structured collection of civil conflict/peacebuildin
 - [“New” and “Old” Civil Wars: A Valid Distinction? (2002)](https://www.cambridge.org/core/journals/world-politics/article/abs/new-and-old-civil-wars-a-valid-distinction/46C7C5D88F9A432F470EA60A1CF5D024)
 - [The Future is a Moving Target: Predicting Political Instability (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/future-is-a-moving-target-predicting-political-instability/0028744BE1AFF83F879E7759D798D88A)
 - [Combining Civil and Interstate Wars (2013)](https://www.cambridge.org/core/journals/international-organization/article/abs/combining-civil-and-interstate-wars/F58D663E5D6896BFFC84A1406713B849)
+- [The New New Civil Wars (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-060415-093921)
+- [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/comparing-random-forest-with-logistic-regression-for-predicting-classimbalanced-civil-war-onset-data/109E1511378A38BB4B41F721E6017FB1)
+- [Cluster–Robust Variance Estimation for Dyadic Data (2015)](https://www.cambridge.org/core/journals/political-analysis/article/abs/clusterrobust-variance-estimation-for-dyadic-data/D43E12BF35240100C7A4ED3C28912C95)
